@@ -14,7 +14,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.own.fitness.app.R;
-import com.own.fitness.app.allads.AdmobAds;
+//import com.own.fitness.app.allads.AdmobAds;
 import com.own.fitness.app.aputils.CommonMethods;
 
 
@@ -84,8 +84,8 @@ public class complete extends AppCompatActivity {
 
         findViewById(R.id.closeimage_Congrats).setOnClickListener(v -> finish());
 
-        new AdmobAds(this.context, (LinearLayout) findViewById(R.id.nativeAdContainer))
-                .refreshAd(getString(R.string.AdMob_Native_ID));
+//        new AdmobAds(this.context, (LinearLayout) findViewById(R.id.nativeAdContainer))
+//                .refreshAd(getString(R.string.AdMob_Native_ID));
 
 
     }

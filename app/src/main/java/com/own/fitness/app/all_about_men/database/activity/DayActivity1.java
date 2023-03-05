@@ -18,10 +18,10 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.facebook.ads.AdSize;
-import com.google.android.gms.ads.AdListener;
-import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.InterstitialAd;
+//import com.facebook.ads.AdSize;
+//import com.google.android.gms.ads.AdListener;
+//import com.google.android.gms.ads.AdRequest;
+//import com.google.android.gms.ads.InterstitialAd;
 import com.google.android.material.appbar.AppBarLayout;
 import com.own.fitness.app.R;
 
@@ -41,7 +41,7 @@ import java.util.HashMap;
 
 
 public class DayActivity1 extends AppCompatActivity {
-    AdRequest adRequest;
+//    AdRequest adRequest;
     String day;
 
     String excercisetype;
@@ -49,7 +49,7 @@ public class DayActivity1 extends AppCompatActivity {
     HashMap<String, Integer> hashMapExcDescription;
     HashMap<String, Integer> hashMapExcTypes;
     Intent intentMainExcerciseActivity;
-    InterstitialAd interstitial;
+//    InterstitialAd interstitial;
     TextView l;
     Toolbar m;
     Context n;
@@ -66,27 +66,27 @@ public class DayActivity1 extends AppCompatActivity {
     }
 
 
-    public void requestNewInterstitial() {
-        this.interstitial.loadAd(this.adRequest);
-    }
+//    public void requestNewInterstitial() {
+//        this.interstitial.loadAd(this.adRequest);
+//    }
 
-    private void setAdmodAds() {
-        this.interstitial = new InterstitialAd(this);
-        this.interstitial.setAdUnitId(getString(R.string.AdMob_Full_ID));
-        this.adRequest = new AdRequest.Builder().build();
-        this.interstitial.setAdListener(new AdListener() {
-
-
-            @Override
-            public void onAdClosed() {
-                super.onAdClosed();
-                DayActivity1 dayActivity = DayActivity1.this;
-                dayActivity.startActivity(dayActivity.intentMainExcerciseActivity);
-                DayActivity1.this.requestNewInterstitial();
-            }
-        });
-        requestNewInterstitial();
-    }
+//    private void setAdmodAds() {
+//        this.interstitial = new InterstitialAd(this);
+//        this.interstitial.setAdUnitId(getString(R.string.AdMob_Full_ID));
+//        this.adRequest = new AdRequest.Builder().build();
+//        this.interstitial.setAdListener(new AdListener() {
+//
+//
+//            @Override
+//            public void onAdClosed() {
+//                super.onAdClosed();
+//                DayActivity1 dayActivity = DayActivity1.this;
+//                dayActivity.startActivity(dayActivity.intentMainExcerciseActivity);
+//                DayActivity1.this.requestNewInterstitial();
+//            }
+//        });
+//        requestNewInterstitial();
+//    }
 
     public void a(View view) {
         if (view == this.o) {
@@ -98,10 +98,10 @@ public class DayActivity1 extends AppCompatActivity {
                 DayActivity1.this.intentMainExcerciseActivity.putExtras(bundle);
                 DayActivity1.this.intentMainExcerciseActivity.putExtra("excercise_type", DayActivity1.this.excercisetype);
                 DayActivity1.this.intentMainExcerciseActivity.putExtra("progress", DayActivity1.this.progress);
-                if (DayActivity1.this.interstitial.isLoaded()) {
-                    DayActivity1.this.interstitial.show();
-                    return;
-                }
+//                if (DayActivity1.this.interstitial.isLoaded()) {
+//                    DayActivity1.this.interstitial.show();
+//                    return;
+//                }
                 DayActivity1 dayActivity2 = DayActivity1.this;
                 dayActivity2.startActivity(dayActivity2.intentMainExcerciseActivity);
             }, 10);
@@ -229,17 +229,17 @@ public class DayActivity1 extends AppCompatActivity {
         bottom_rel.setBackground(getResources().getDrawable(R.drawable.men_round));
 
 
-        RelativeLayout adViewContainer = (RelativeLayout) findViewById(R.id.myad_fb);
-        com.facebook.ads.AdView adView = new com.facebook.ads.AdView(this, getString(R.string.fb_banner), AdSize.BANNER_HEIGHT_50);
-        adViewContainer.addView(adView);
-        adView.loadAd();
+//        RelativeLayout adViewContainer = (RelativeLayout) findViewById(R.id.myad_fb);
+//        com.facebook.ads.AdView adView = new com.facebook.ads.AdView(this, getString(R.string.fb_banner), AdSize.BANNER_HEIGHT_50);
+//        adViewContainer.addView(adView);
+//        adView.loadAd();
 
 
         this.q = (RecyclerView) findViewById(R.id.recyclerAllDaysList);
         this.o = (TextView) findViewById(R.id.buttonTwo);
         this.s = new DatabaseOperations1(this);
         this.r = new LinearLayoutManager(this, RecyclerView.VERTICAL, false);
-        setAdmodAds();
+//        setAdmodAds();
         this.m = (Toolbar) findViewById(R.id.mtoolbar);
         this.l = (TextView) this.m.findViewById(R.id.mtoolbar_title);
         this.m.setNavigationIcon((int) R.drawable.back_pink);

@@ -20,7 +20,7 @@ import com.getkeepsafe.android.multistateanimation.MultiStateAnimation;
 import com.google.android.material.appbar.AppBarLayout;
 import com.own.fitness.app.R;
 import com.own.fitness.app.database.DatabaseOperations;
-import com.own.fitness.app.allads.AdmobAds;
+//import com.own.fitness.app.allads.AdmobAds;
 import com.travijuu.numberpicker.library.NumberPicker;
 
 import org.json.JSONException;
@@ -38,7 +38,7 @@ public class ExcDetailsActivityNew extends AppCompatActivity {
     TextView n;
     NumberPicker numpicker;
     Context o;
-    AdmobAds p = null;
+//    AdmobAds p = null;
     MultiStateAnimation.SectionBuilder q;
     MultiStateAnimation r;
     int[] s = {R.array.buttock_cycles, R.array.weightloss_cycles, R.array.abs_cycles, R.array.fatburn_cycles, R.array.morning_cycle, R.array.evening_cycle};
@@ -161,8 +161,8 @@ public class ExcDetailsActivityNew extends AppCompatActivity {
         this.r = new MultiStateAnimation.Builder(imageView).addSection(this.q).build(this);
         this.r.transitionNow("loading");
         this.m.setText(this.l);
-        this.p = new AdmobAds(this.o, (LinearLayout) findViewById(R.id.nativeAdContainer));
-        this.p.refreshAd(getString(R.string.AdMob_Native_ID));
+//        this.p = new AdmobAds(this.o, (LinearLayout) findViewById(R.id.nativeAdContainer));
+//        this.p.refreshAd(getString(R.string.AdMob_Native_ID));
         this.n = (TextView) findViewById(R.id.numberpicker_cycles);
         if (intArray.length < 2) {
             textView = this.n;

@@ -164,7 +164,7 @@ public class ProfileFragment extends Fragment implements CompoundButton.OnChecke
         int i2 = this.mPreferences.getInt("sound", 1);
         this.f.updateLocale(this.h);
         View inflate = layoutInflater.inflate(R.layout.fragment_profile, viewGroup, false);
-        showFullAd();
+//        showFullAd();
         SwitchCompat switchCompat = (SwitchCompat) inflate.findViewById(R.id.sound_switch);
         switchCompat.setOnCheckedChangeListener(this);
         if (i2 == 1) {
@@ -200,16 +200,16 @@ public class ProfileFragment extends Fragment implements CompoundButton.OnChecke
         });
 
 
-        inflate.findViewById(R.id.rlRateUs).setOnClickListener(new View.OnClickListener() {
-            public void onClick(View view) {
-                try {
-                    ProfileFragment.this.getActivity().startActivity(new Intent("android.intent.action.VIEW", Uri.parse("market://details?id=" + ((FragmentActivity) Objects.requireNonNull(ProfileFragment.this.getActivity())).getPackageName())));
-                } catch (ActivityNotFoundException unused) {
-                    FragmentActivity activity = ProfileFragment.this.getActivity();
-                    activity.startActivity(new Intent("android.intent.action.VIEW", Uri.parse("http://play.google.com/store/apps/details?id=" + ((FragmentActivity) Objects.requireNonNull(ProfileFragment.this.getActivity())).getPackageName())));
-                }
-            }
-        });
+//        inflate.findViewById(R.id.rlRateUs).setOnClickListener(new View.OnClickListener() {
+//            public void onClick(View view) {
+//                try {
+//                    ProfileFragment.this.getActivity().startActivity(new Intent("android.intent.action.VIEW", Uri.parse("market://details?id=" + ((FragmentActivity) Objects.requireNonNull(ProfileFragment.this.getActivity())).getPackageName())));
+//                } catch (ActivityNotFoundException unused) {
+//                    FragmentActivity activity = ProfileFragment.this.getActivity();
+//                    activity.startActivity(new Intent("android.intent.action.VIEW", Uri.parse("http://play.google.com/store/apps/details?id=" + ((FragmentActivity) Objects.requireNonNull(ProfileFragment.this.getActivity())).getPackageName())));
+//                }
+//            }
+//        });
         inflate.findViewById(R.id.rlShareApp).setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
                 ProfileFragment.this.shareApp();
@@ -217,20 +217,20 @@ public class ProfileFragment extends Fragment implements CompoundButton.OnChecke
         });
 
 
-        inflate.findViewById(R.id.privacyapp).setOnClickListener(new View.OnClickListener() {
-            public void onClick(View view) {
+//        inflate.findViewById(R.id.privacyapp).setOnClickListener(new View.OnClickListener() {
+//            public void onClick(View view) {
+//
+//                Uri uri = Uri.parse("https://www.google.com");
+//                Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+//                startActivity(intent);
+//            }
+//        });
 
-                Uri uri = Uri.parse("https://www.google.com");
-                Intent intent = new Intent(Intent.ACTION_VIEW, uri);
-                startActivity(intent);
-            }
-        });
-
-        inflate.findViewById(R.id.rlLanguage).setOnClickListener(new View.OnClickListener() {
-            public void onClick(View view) {
-                ProfileFragment.this.launchLanguageFrag();
-            }
-        });
+//        inflate.findViewById(R.id.rlLanguage).setOnClickListener(new View.OnClickListener() {
+//            public void onClick(View view) {
+//                ProfileFragment.this.launchLanguageFrag();
+//            }
+//        });
 
 
         inflate.findViewById(R.id.rLExerciseTime).setOnClickListener(new View.OnClickListener() {

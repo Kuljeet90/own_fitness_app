@@ -90,7 +90,7 @@ public class RoutinesFragment1 extends Fragment {
 
 
 
-        showFullAd();
+//        showFullAd();
 
         inflate.findViewById(R.id.morning_workout).setOnClickListener(view -> {
             Intent intent = new Intent(RoutinesFragment1.this.getActivity(), DayActivity1.class);

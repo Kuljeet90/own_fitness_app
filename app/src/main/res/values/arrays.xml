@@ -603,18 +603,18 @@
     </array>
     <array name="languagenames">
         <item>English</item>
-        <item>Chinese</item>
-        <item>Russian</item>
-        <item>French</item>
-        <item>Spanish</item>
-        <item>Arabic</item>
-        <item>Japanese</item>
-        <item>German</item>
-        <item>Korean</item>
-        <item>Portuguese</item>
-        <item>Italian</item>
-        <item>Indonesian</item>
-        <item>Dutch</item>
+<!--        <item>Chinese</item>-->
+<!--        <item>Russian</item>-->
+<!--        <item>French</item>-->
+<!--        <item>Spanish</item>-->
+<!--        <item>Arabic</item>-->
+<!--        <item>Japanese</item>-->
+<!--        <item>German</item>-->
+<!--        <item>Korean</item>-->
+<!--        <item>Portuguese</item>-->
+<!--        <item>Italian</item>-->
+<!--        <item>Indonesian</item>-->
+<!--        <item>Dutch</item>-->
     </array>
     <array name="leftlungeskneehops">
         <item>@drawable/left_lunge_knee_hops_a</item>

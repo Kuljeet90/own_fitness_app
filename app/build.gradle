@@ -20,11 +20,11 @@ android {
 
     defaultConfig {
         applicationId "com.own.fitness.app"
-//        manifestPlaceholders = [
-//                onesignal_app_id: 'PUT_YOUR_ONESIGNAL_APP_ID_HERE',
-//                // Project number pulled from dashboard, local value is ignored.
-//                onesignal_google_project_number: 'REMOTE'
-//        ]
+        manifestPlaceholders = [
+                onesignal_app_id: 'PUT_YOUR_ONESIGNAL_APP_ID_HERE',
+                // Project number pulled from dashboard, local value is ignored.
+                onesignal_google_project_number: 'REMOTE'
+        ]
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 1

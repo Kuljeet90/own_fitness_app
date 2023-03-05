@@ -320,34 +320,34 @@
                             android:layout_marginRight="@dimen/dimen_8dp"
                             android:background="@drawable/line_image" />
 
-                        <RelativeLayout
-                            android:id="@+id/rlLanguage"
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:layout_margin="10dp"
-                            android:background="?attr/selectableItemBackground"
-                            android:clickable="true"
-                            android:focusable="true">
+<!--                        <RelativeLayout-->
+<!--                            android:id="@+id/rlLanguage"-->
+<!--                            android:layout_width="match_parent"-->
+<!--                            android:layout_height="wrap_content"-->
+<!--                            android:layout_margin="10dp"-->
+<!--                            android:background="?attr/selectableItemBackground"-->
+<!--                            android:clickable="true"-->
+<!--                            android:focusable="true">-->
 
-                            <ImageView
-                                android:id="@+id/ivLanguage"
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:layout_margin="5dp"
-                                android:background="@drawable/language" />
+<!--                            <ImageView-->
+<!--                                android:id="@+id/ivLanguage"-->
+<!--                                android:layout_width="wrap_content"-->
+<!--                                android:layout_height="wrap_content"-->
+<!--                                android:layout_margin="5dp"-->
+<!--                                android:background="@drawable/language" />-->
 
-                            <TextView
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:layout_centerVertical="true"
-                                android:layout_margin="5dp"
-                                android:layout_toRightOf="@+id/ivLanguage"
-                                android:fontFamily="@font/gothic"
-                                android:text="@string/languages"
-                                android:textColor="@color/textColor"
-                                android:textDirection="ltr"
-                                android:textSize="@dimen/profiletextfontsize" />
-                        </RelativeLayout>
+<!--                            <TextView-->
+<!--                                android:layout_width="wrap_content"-->
+<!--                                android:layout_height="wrap_content"-->
+<!--                                android:layout_centerVertical="true"-->
+<!--                                android:layout_margin="5dp"-->
+<!--                                android:layout_toRightOf="@+id/ivLanguage"-->
+<!--                                android:fontFamily="@font/gothic"-->
+<!--                                android:text="@string/languages"-->
+<!--                                android:textColor="@color/textColor"-->
+<!--                                android:textDirection="ltr"-->
+<!--                                android:textSize="@dimen/profiletextfontsize" />-->
+<!--                        </RelativeLayout>-->
 
 
                         <View
@@ -357,35 +357,35 @@
                             android:layout_marginRight="@dimen/dimen_8dp"
                             android:background="@drawable/line_image" />
 
-                        <RelativeLayout
-                            android:id="@+id/rlRateUs"
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:layout_margin="10dp"
-                            android:background="?attr/selectableItemBackground"
-                            android:clickable="true"
-                            android:focusable="true">
+<!--                        <RelativeLayout-->
+<!--                            android:id="@+id/rlRateUs"-->
+<!--                            android:layout_width="match_parent"-->
+<!--                            android:layout_height="wrap_content"-->
+<!--                            android:layout_margin="10dp"-->
+<!--                            android:background="?attr/selectableItemBackground"-->
+<!--                            android:clickable="true"-->
+<!--                            android:focusable="true">-->
 
-                            <ImageView
-                                android:id="@+id/ivRateUs"
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:layout_centerVertical="true"
-                                android:layout_margin="5dp"
-                                android:background="@drawable/rate_us" />
+<!--                            <ImageView-->
+<!--                                android:id="@+id/ivRateUs"-->
+<!--                                android:layout_width="wrap_content"-->
+<!--                                android:layout_height="wrap_content"-->
+<!--                                android:layout_centerVertical="true"-->
+<!--                                android:layout_margin="5dp"-->
+<!--                                android:background="@drawable/rate_us" />-->
 
-                            <TextView
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:layout_centerVertical="true"
-                                android:layout_margin="5dp"
-                                android:layout_toRightOf="@+id/ivRateUs"
-                                android:fontFamily="@font/gothic"
-                                android:text="@string/rate_us_str"
-                                android:textColor="@color/textColor"
-                                android:textDirection="ltr"
-                                android:textSize="@dimen/profiletextfontsize" />
-                        </RelativeLayout>
+<!--                            <TextView-->
+<!--                                android:layout_width="wrap_content"-->
+<!--                                android:layout_height="wrap_content"-->
+<!--                                android:layout_centerVertical="true"-->
+<!--                                android:layout_margin="5dp"-->
+<!--                                android:layout_toRightOf="@+id/ivRateUs"-->
+<!--                                android:fontFamily="@font/gothic"-->
+<!--                                android:text="@string/rate_us_str"-->
+<!--                                android:textColor="@color/textColor"-->
+<!--                                android:textDirection="ltr"-->
+<!--                                android:textSize="@dimen/profiletextfontsize" />-->
+<!--                        </RelativeLayout>-->
 
                         <View
                             android:layout_width="match_parent"
@@ -432,36 +432,36 @@
                             android:background="@drawable/line_image" />
 
 
-                        <RelativeLayout
-                            android:id="@+id/privacyapp"
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:layout_margin="10dp"
-                            android:background="?attr/selectableItemBackground"
-                            android:clickable="true"
-                            android:focusable="true">
-
-                            <ImageView
-                                android:id="@+id/imgprivacy"
-                                android:layout_width="25dp"
-                                android:layout_height="25dp"
-                                android:layout_centerVertical="true"
-                                android:layout_margin="5dp"
-                                android:background="@mipmap/lock"
-                                android:backgroundTint="@color/white"/>
-
-                            <TextView
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:layout_centerVertical="true"
-                                android:layout_margin="5dp"
-                                android:layout_toRightOf="@+id/imgprivacy"
-                                android:fontFamily="@font/gothic"
-                                android:text="@string/privacy"
-                                android:textColor="@color/textColor"
-                                android:textDirection="ltr"
-                                android:textSize="@dimen/profiletextfontsize" />
-                        </RelativeLayout>
+<!--                        <RelativeLayout-->
+<!--                            android:id="@+id/privacyapp"-->
+<!--                            android:layout_width="match_parent"-->
+<!--                            android:layout_height="wrap_content"-->
+<!--                            android:layout_margin="10dp"-->
+<!--                            android:background="?attr/selectableItemBackground"-->
+<!--                            android:clickable="true"-->
+<!--                            android:focusable="true">-->
+<!---->
+<!--                            <ImageView-->
+<!--                                android:id="@+id/imgprivacy"-->
+<!--                                android:layout_width="25dp"-->
+<!--                                android:layout_height="25dp"-->
+<!--                                android:layout_centerVertical="true"-->
+<!--                                android:layout_margin="5dp"-->
+<!--                                android:background="@mipmap/lock"-->
+<!--                                android:backgroundTint="@color/white"/>-->
+<!---->
+<!--                            <TextView-->
+<!--                                android:layout_width="wrap_content"-->
+<!--                                android:layout_height="wrap_content"-->
+<!--                                android:layout_centerVertical="true"-->
+<!--                                android:layout_margin="5dp"-->
+<!--                                android:layout_toRightOf="@+id/imgprivacy"-->
+<!--                                android:fontFamily="@font/gothic"-->
+<!--                                android:text="@string/privacy"-->
+<!--                                android:textColor="@color/textColor"-->
+<!--                                android:textDirection="ltr"-->
+<!--                                android:textSize="@dimen/profiletextfontsize" />-->
+<!--                        </RelativeLayout>-->
 
                     </LinearLayout>
                 </androidx.core.widget.NestedScrollView>

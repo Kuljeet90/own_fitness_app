@@ -14,7 +14,7 @@ import android.widget.ImageView;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import com.google.android.gms.ads.MobileAds;
+//import com.google.android.gms.ads.MobileAds;
 import com.own.fitness.app.R;
 import com.own.fitness.app.activities.DayActivity;
 import com.own.fitness.app.aputils.CommonMethods;
@@ -95,7 +95,7 @@ public class TrainingFragment extends Fragment {
     @Override
     public void onCreate(@Nullable Bundle bundle) {
         super.onCreate(bundle);
-        MobileAds.initialize((Context) getActivity(), getString(R.string.ADMOB_Unit_ID));
+//        MobileAds.initialize((Context) getActivity(), getString(R.string.ADMOB_Unit_ID));
 
 
     }

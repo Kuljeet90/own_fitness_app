@@ -85,7 +85,7 @@ public class RoutinesFragment extends Fragment {
 
 
 
-        showFullAd();
+//        showFullAd();
 
         inflate.findViewById(R.id.morning_workout).setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {

@@ -166,17 +166,17 @@
 <!--            </intent-filter>-->
 <!--        </service>-->
 
-        <activity
-            android:name="com.google.android.gms.ads.AdActivity"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-            android:exported="false"
-            />
-        <provider
-            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
-            android:authorities="com.own.fitness.app.mobileadsinitprovider"
-            android:exported="false"
-            android:initOrder="100"
-            tools:replace="android:authorities" />
+<!--        <activity-->
+<!--            android:name="com.google.android.gms.ads.AdActivity"-->
+<!--            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"-->
+<!--            android:exported="false"-->
+<!--            />-->
+<!--        <provider-->
+<!--            android:name="com.google.android.gms.ads.MobileAdsInitProvider"-->
+<!--            android:authorities="com.own.fitness.app.mobileadsinitprovider"-->
+<!--            android:exported="false"-->
+<!--            android:initOrder="100"-->
+<!--            tools:replace="android:authorities" />-->
 
 <!--        <receiver-->
 <!--            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"-->

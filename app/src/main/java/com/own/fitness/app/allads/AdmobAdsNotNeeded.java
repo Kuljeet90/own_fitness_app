@@ -23,7 +23,7 @@ import com.google.android.gms.ads.formats.UnifiedNativeAd;
 import com.google.android.gms.ads.formats.UnifiedNativeAdView;
 import com.own.fitness.app.R;
 
-public class AdmobAds {
+public class AdmobAdsNotNeeded {
 
     boolean adloadddoalog;
     Context context;
@@ -32,24 +32,24 @@ public class AdmobAds {
     UnifiedNativeAd unifindadd;
     String adunitid = String.valueOf(R.string.ADMOB_Unit_ID);
 
-    public AdmobAds(Context context2) {
+    public AdmobAdsNotNeeded(Context context2) {
         this.context = context2;
         MobileAds.initialize(context2, this.adunitid);
     }
 
-    public AdmobAds(Context context2, LinearLayout linearLayout) {
+    public AdmobAdsNotNeeded(Context context2, LinearLayout linearLayout) {
         this.context = context2;
         this.linnative = linearLayout;
         MobileAds.initialize(context2, this.adunitid);
     }
 
 
-    public void displayAdmobAdOnLoad_Dialog(LinearLayout linearLayout) {
-        linearLayout.setVisibility(View.VISIBLE);
-        UnifiedNativeAdView unifiedNativeAdView = (UnifiedNativeAdView) LayoutInflater.from(this.context).inflate(R.layout.ad_unified_dialog, (ViewGroup) null);
-        populateUnifiedNativeAdView_dialog(this.unifindadd, unifiedNativeAdView);
-        linearLayout.addView(unifiedNativeAdView);
-    }
+//    public void displayAdmobAdOnLoad_Dialog(LinearLayout linearLayout) {
+//        linearLayout.setVisibility(View.VISIBLE);
+//        UnifiedNativeAdView unifiedNativeAdView = (UnifiedNativeAdView) LayoutInflater.from(this.context).inflate(R.layout.ad_unified_dialog, (ViewGroup) null);
+//        populateUnifiedNativeAdView_dialog(this.unifindadd, unifiedNativeAdView);
+//        linearLayout.addView(unifiedNativeAdView);
+//    }
 
     public boolean isConnectedToInternet() {
         NetworkInfo[] allNetworkInfo;
@@ -138,36 +138,36 @@ public class AdmobAds {
         unifiedNativeAdView.setNativeAd(unifiedNativeAd);
     }
 
-    public void refreshAd(final String str) {
-        AdLoader.Builder builder = new AdLoader.Builder(this.context, str);
-        builder.forUnifiedNativeAd(unifiedNativeAd -> {
-            UnifiedNativeAdView unifiedNativeAdView = (UnifiedNativeAdView) LayoutInflater.from(AdmobAds.this.context).inflate(R.layout.ad_unified, (ViewGroup) null);
-            AdmobAds.this.populateUnifiedNativeAdView(unifiedNativeAd, unifiedNativeAdView);
-            AdmobAds.this.linnative.setBackgroundResource(R.drawable.shape_roundedwhite);
-            AdmobAds.this.linnative.addView(unifiedNativeAdView);
-        });
-        builder.withNativeAdOptions(new NativeAdOptions.Builder().setVideoOptions(new VideoOptions.Builder().setStartMuted(true).build()).build());
-        builder.withAdListener(new AdListener() {
-            @Override
-            public void onAdFailedToLoad(int i) {
-                AdmobAds.this.refreshAd(str);
-            }
-        }).build().loadAd(new AdRequest.Builder().build());
-    }
+//    public void refreshAd(final String str) {
+//        AdLoader.Builder builder = new AdLoader.Builder(this.context, str);
+//        builder.forUnifiedNativeAd(unifiedNativeAd -> {
+//            UnifiedNativeAdView unifiedNativeAdView = (UnifiedNativeAdView) LayoutInflater.from(AdmobAds.this.context).inflate(R.layout.ad_unified, (ViewGroup) null);
+//            AdmobAdsNotNeeded.this.populateUnifiedNativeAdView(unifiedNativeAd, unifiedNativeAdView);
+//            AdmobAdsNotNeeded.this.linnative.setBackgroundResource(R.drawable.shape_roundedwhite);
+//            AdmobAdsNotNeeded.this.linnative.addView(unifiedNativeAdView);
+//        });
+//        builder.withNativeAdOptions(new NativeAdOptions.Builder().setVideoOptions(new VideoOptions.Builder().setStartMuted(true).build()).build());
+//        builder.withAdListener(new AdListener() {
+//            @Override
+//            public void onAdFailedToLoad(int i) {
+//                AdmobAdsNotNeeded.this.refreshAd(str);
+//            }
+//        }).build().loadAd(new AdRequest.Builder().build());
+//    }
 
     public boolean refreshAd_dialog(final String str) {
         if (isConnectedToInternet()) {
             AdLoader.Builder builder = new AdLoader.Builder(this.context, str);
             builder.forUnifiedNativeAd(unifiedNativeAd -> {
-                AdmobAds.this.adloadddoalog = true;
-                AdmobAds.this.unifindadd = unifiedNativeAd;
+                AdmobAdsNotNeeded.this.adloadddoalog = true;
+                AdmobAdsNotNeeded.this.unifindadd = unifiedNativeAd;
             });
             builder.withNativeAdOptions(new NativeAdOptions.Builder().setVideoOptions(new VideoOptions.Builder().setStartMuted(true).build()).build());
             builder.withAdListener(new AdListener() {
                 @Override
                 public void onAdFailedToLoad(int i) {
-                    AdmobAds.this.adloadddoalog = false;
-                    AdmobAds.this.refreshAd_dialog(str);
+                    AdmobAdsNotNeeded.this.adloadddoalog = false;
+                    AdmobAdsNotNeeded.this.refreshAd_dialog(str);
                 }
             }).build().loadAd(new AdRequest.Builder().build());
         }
