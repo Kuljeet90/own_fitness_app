@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ABDOMINALCRUNCHES">مضغات بطنية</string>
+    <string name="ABDOMINALCRUNCHESDESCRIPTION">استلق على ظهرك وثني ركبتيك ، الآن ، ارفع رأسك وكتفك ، عن طريق مد يدك ، ابقِ لبضع ثوان ثم عد إلى الموضع الأولي ،</string>
+    <string name="BIRDDOG">كلب الطيور</string>
+    <string name="BIRDDOGDESCRIPTION">مبدئيًا على يديك وركبتيك ، الآن ، مدّ ساقك اليمنى ويدك اليسرى في وقت واحد ، كن في هذا الموضع لبضع ثوانٍ وعد إلى الموضع الأولي ، كرر ذلك على الجانب الآخر ،</string>
+    <string name="BRIDGE">جسر</string>
+    <string name="BRIDGEDESCRIPTION">ابدأ بالاستلقاء على الأرض ، ثم ارفع الوركين وظهرك مستقيمًا ، وكن في هذا الوضع لأطول فترة ممكنة ،</string>
+    <string name="CALFSTRETCHLEFT">العجل تمتد اليسار</string>
+    <string name="CALFSTRETCHLEFTDESCRIPTION">قف ممسكًا بجدار ، مع تمدد ساقك اليسرى تمامًا وساقك اليمنى للأمام ، مارس القوة على الحائط بذراعيك ، كن في هذا الوضع لبضع ثوانٍ ،</string>
+    <string name="CALFSTRETCHRIGHT">العجل تمتد الحق</string>
+    <string name="CALFSTRETCHRIGHTDESCRIPTION">قف ممسكًا بجدار ، مع تمدد ساقك اليمنى تمامًا وساقك اليسرى للأمام ، مارس القوة على الحائط بذراعيك ، كن في هذا الوضع لبضع ثوان ،</string>
+    <string name="CATCOWPOSE">القط بقرة تشكل</string>
+    <string name="CATCOWPOSEDESCRIPTION">في البداية أنزل على يديك وركبتيك ، الآن ، استنشق عن طريق مد بطنك إلى أسفل والزفير عن طريق مد ظهرك لأعلى ، كرر ذلك ،</string>
+    <string name="CHILDPOSE">تشكل الطفل</string>
+    <string name="CHILDPOSEDESCRIPTION">في البداية تكون في الطاولة ، قم الآن بالزفير وخفض الوركين نحو الكعب ، دع الجبهة تلمس الأرض وتمتد ذراعيك نحو الخلف نحو قدميك ، كن في هذا الوضع لبعض الوقت ،</string>
+    <string name="COBRASTRETCH">تمتد الكوبرا</string>
+    <string name="COBRASTRETCHDESCRIPTION">استلقِ ورأسك مواجهًا للأرض ، ضع يديك على جانب كتفيك ، والآن ، ارفعي صدرك بذراعيك ، كن في هذا الوضع لبعض الوقت ،</string>
+    <string name="CURTSYLUNGES">اندفع المجاملة</string>
+    <string name="CURTSYLUNGESDESCRIPTION">ابدأ بالوقوف ، مع قدميك ، وبضع بوصات ، وتمتد ساقك اليمنى للخلف إلى اليسار ، عن طريق ثني الركبتين ، والعودة إلى وضع البداية وتكرار ذلك على الجانب الآخر ،</string>
+    <string name="DONKEYKICKSLEFT">حمار ركلات اليسار</string>
+    <string name="DONKEYKICKSLEFTDESCRIPTION">في البداية أنزل على يديك وركبتيك ، ارفع الساق اليسرى الآن مع ثني الركبة والساق متجهًا نحو السقف ، وتمدد الساق والعودة إلى الموضع الأولي ، كرر ذلك ،</string>
+    <string name="LEFTLUNGESKNEEHOPS">الطعنات اليسرى الركبة القفزات</string>
+    <string name="LEFTLUNGESKNEEHOPSDESCRIPTION">في البداية ، قف مستقيماً ، ثم مد ساقك اليسرى للخلف واسقط الجسم ، وعند الخروج ، ارفع ركبتك اليسرى إلى أعلى مستوى ممكن ، ثم عد إلى الوضع الأصلي وكرره ،</string>
+    <string name="LEFTQUADSTRETCHWITHWALL">رباعية اليسار تمتد مع الجدار</string>
+    <string name="LEFTQUADSTRETCHWITHWALLDESCRIPTION">ابدأ في وضع الوقوف ، المس الحائط بيدك اليمنى وأمسك كاحل ساقك اليسرى عند الانحناء ، كن في هذا الموضع ،</string>
+    <string name="LYINGBUTTERFLYSTRETCH">تمتد الكذب فراشة</string>
+    <string name="LYINGBUTTERFLYSTRETCHDESCRIPTION">الاستلقاء على ظهرك ، ثني ركبتيك ، مع باطن القدمين ، ولمس بعضنا البعض ، والبقاء في هذا الموقف ،</string>
+    <string name="PLIESQUATS">يجلس القرفصاء منحنى</string>
+    <string name="PLIESQUATSDESCRIPTION">قف من خلال إبقاء يديك على مفصل الفخذ والساقين بعرض بضع بوصات ، عن الكتف ، اسقط الجسم ، حتى تكون الفخذان موازية للأرض ، ثم عد إلى الموضع الأصلي ، كرر ذلك ،</string>
+    <string name="REVERSECRUNCHES">الجرش العكسي</string>
+    <string name="REVERSECRUNCHESDESCRIPTION">استلقي على ظهرك وثني ركبتيك ، والآن ، ارفعي ركبتيك نحو رأسك ، من خلال إبقاء يديك على جانب جسمك ،</string>
+    <string name="RIGHTLUNGESKNEEHOPS">الطعنات اليمنى القفزات الركبة</string>
+    <string name="RIGHTLUNGESKNEEHOPSDESCRIPTION">في البداية ، قف مستقيماً ، ثم مد ساقك اليمنى للخلف واسقط الجسم ، وعند الخروج ، ارفع ركبتك اليمنى إلى أعلى مستوى ممكن ، ثم عد إلى الوضع الأصلي وكرره ،</string>
+    <string name="RIGHTQUADSTRETCHWITHWALL">يمتد رباعية الأيمن مع الجدار</string>
+    <string name="RIGHTQUADSTRETCHWITHWALLDESCRIPTION">ابدأ في وضعية الوقوف ، المس الحائط بيدك اليسرى وامسك كاحل ساقك اليمنى عند الانحناء ، كن في هذا الموضع ،</string>
+    <string name="SHOULDERSTRETCH">تمتد الكتف</string>
+    <string name="SHOULDERSTRETCHDESCRIPTION">مد ذراعك الأيسر ، عبر جسمك ، امسك مرفق ذراعك الأيسر ، باستخدام ذراعك الأيمن واسحبه نحو صدرك ، كرر التمرين على الجانب الآخر ،</string>
+    <string name="SPLITSQUATLEFT">تقسيم القرفصاء اليسار</string>
+    <string name="SPLITSQUATLEFTDESCRIPTION">تمد قدمك اليسرى للأمام ، عن طريق جعل الجزء العلوي من جسمك مستقيمًا ، ثم اخفض جسمك ثم حركه للأعلى ،</string>
+    <string name="SPLITSQUATRIGHT">انقسام القرفصاء الصحيح</string>
+    <string name="SPLITSQUATRIGHTDESCRIPTION">مدّ قدمك إلى الأمام بساقك اليمنى ، عن طريق جعل الجزء العلوي من جسمك مستقيمًا ، ثم اخفض جسمك ثم حركه للأعلى ،</string>
+    <string name="SQUATS">يجلس القرفصاء</string>
+    <string name="SQUATSDESCRIPTION">قف مع ساقيك على بعد بضع بوصات ، وتمد ذراعيك إلى الأمام واسقط الجسم لأسفل ، حتى تكون فخذيك موازية للأرض ، والآن عد إلى الموضع الأولي ، كرر ذلك ،</string>
+    <string name="TRICEPSSTRETCHLEFT">ثلاثية الرؤوس تمتد اليسار</string>
+    <string name="TRICEPSSTRETCHLEFTDESCRIPTION">ارفع ذراعك الأيسر وثنيه وضعه على ظهرك ، امسك الكوع الأيسر باستخدام يدك اليمنى واسحبه ، كن في هذا الموضع لعدة ثوانٍ ،</string>
+    <string name="TRICEPSSTRETCHRIGHT">ثلاثية الرؤوس تمتد الحق</string>
+    <string name="TRICEPSSTRETCHRIGHTDESCRIPTION">ارفع ذراعك اليمنى وثنيها وضعها على ظهرك ، امسك الكوع الأيمن باستخدام يدك اليسرى واسحبه ، كن في هذا الموضع لعدة ثوان</string>
+
+    <string name="abs_title">تمرين عضلات الذراعين</string>
+    <string name="advbellyfattip1">تناول كميات كبيرة من السكر أمر ضار بالصحة ، كما أن المشروبات السكرية مثل المشروبات الغازية وعصير الفواكه وما إلى ذلك ، تحتوي على نسبة عالية من السكر ، مما يعني أنها تحتوي على نسبة عالية من السعرات الحرارية ، وتجنب المشروبات السكرية إذا كنت تريد إنقاص الوزن.</string>
+    <string name="advbellyfattip10">تأكد من اتباع نظام غذائي صحي ، ويشمل نظام غذائي صحي لفقدان الوزن الفواكه والخضروات والدهون الصحية والأطعمة الغنية بالبروتين والأطعمة الليفية ، والنظام الغذائي الصحي يحتوي على الأطعمة التي هي منخفضة السعرات الحرارية ويساعد في فقدان الوزن.</string>
+    <string name="advbellyfattip10title">تناول طعام صحي</string>
+    <string name="advbellyfattip11">تحتوي القهوة السوداء على مادة الكافيين التي تزيد من عملية الأيض وتجعلك نشيطًا ، حيث يساعد استهلاك القهوة السوداء على حرق السعرات الحرارية ، ولا تضيف السكر أو أي مواد تحلية عالية السعرات الحرارية إلى قهوتك ، حيث يؤدي شرب القهوة السوداء بانتظام إلى إنقاص الوزن.</string>
+    <string name="advbellyfattip11title">تستهلك القهوة السوداء</string>
+    <string name="advbellyfattip12">تحتوي البيض على نسبة عالية من البروتين وقليلة السعرات الحرارية ، كما أن تناول البيض الكامل في وجبة الإفطار يجعلك ممتلئًا ويقلل من الرغبة الشديدة في تناول المزيد من الطعام مما يساعد على إنقاص الوزن.</string>
+    <string name="advbellyfattip12title">أكل البيض الكامل</string>
+    <string name="advbellyfattip13">يساعد شرب الماء في إنقاص الوزن ، وشرب كمية كافية من الماء يعزز عملية الأيض ويساعد على حرق السعرات الحرارية في جسمك ، وكمية المياه التي يستهلكها الفرد يومياً للذكور البالغين 4 لترات وللإناث البالغة 3 لترات.</string>
+    <string name="advbellyfattip13title">اشرب كمية كافية من الماء</string>
+    <string name="advbellyfattip14">يحتوي الشاي الأخضر على مادة الكافيين وفلافونويد يسمى الكاتشين ، يساعد الكاتشين على تكسير الدهون الزائدة في الجسم ، والكافيين الموجود في الشاي الأخضر يعزز عملية الأيض ويساعد على حرق السعرات الحرارية مما يؤدي إلى فقدان الوزن.</string>
+    <string name="advbellyfattip14title">شرب الشاي الأخضر</string>
+    <string name="advbellyfattip15">تناول ما يقرب من 4 إلى 5 تواريخ كوجبة خفيفة ، والتمور غني بالألياف وقليلة السعرات الحرارية ، والتمور تجعلك تشعر بالشبع وهذا يقلل من الرغبة الشديدة في المزيد من الطعام الذي يؤدي إلى فقدان الوزن.</string>
+    <string name="advbellyfattip15title">أكل التمر كوجبة خفيفة</string>
+    <string name="advbellyfattip16">تناول الفواكه الغنية بالألياف مثل البرتقال والفراولة والموز وما إلى ذلك ، خلال الفطور المتأخر ، فالفواكه الغنية بالألياف تجعلك تشعر بالشبع مما يقلل من الرغبة الشديدة في تناول المزيد من الطعام وهذا يؤدي إلى فقدان الوزن.</string>
+    <string name="advbellyfattip16title">تستهلك الفواكه أثناء الغداء</string>
+    <string name="advbellyfattip17">تأكد من تناول الكربوهيدرات في شكلها الأصلي ، وتناول كميات أقل من الكربوهيدرات المكررة مثل الأرز الأحمر ، خبز القمح الكامل ، معكرونة القمح الكامل والشوفان ، والكربوهيدرات الأقل تكريرًا غنية بالألياف وتجعلك تشعر بالشبع مما يقلل من الرغبة الشديدة في تناول المزيد من الطعام وهذا يساعد في</string>
+    <string name="advbellyfattip17title">تستهلك الكربوهيدرات في شكلها الأصلي</string>
+    <string name="advbellyfattip18">سلطات الخضار منخفضة في السعرات الحرارية وغنية بالألياف مما يساعدك على إنقاص الوزن ، وإعداد سلطات الخضار باستخدام الفاصوليا وزيت الزيتون وعصير الليمون والخل والفلفل والخضر الورقية مثل الخس والسبانخ واللفت وغيرها.</string>
+    <string name="advbellyfattip18title">ادرج سلطات الخضار في نظامك الغذائي</string>
+    <string name="advbellyfattip19">تسبب مستويات الإجهاد المرتفعة زيادة في الوزن ، والشعور بالضغط النفسي يؤدي إلى الرغبة الشديدة في تناول الأطعمة غير المرغوب فيها مثل الحلويات والبيتزا والبرغر والكعك وما إلى ذلك ، وتؤدي أنشطة مثل اليوغا للحفاظ على التوتر تحت السيطرة.</string>
+    <string name="advbellyfattip19title">إدارة الإجهاد لانقاص الوزن</string>
+    <string name="advbellyfattip1title">تجنب المشروبات السكرية</string>
+    <string name="advbellyfattip2">أداء تمارين القلب مثل الجري وركوب الدراجات والسباحة والقفز على الحبل ، إلخ ، يساعدك على حرق السعرات الحرارية ، وتمارين القلب تقلل أيضًا من دهون البطن في جسمك ، وتقلل دهون البطن من التمثيل الغذائي وتسبب زيادة الوزن ، وتؤدي تمارين القلب بانتظام لفقدان الوزن.</string>
+    <string name="advbellyfattip20">اطبخ الطعام باستخدام زيوت صحية مثل زيت الزيتون وزيت الأفوكادو وزيت السمسم ، فهذه الزيوت منخفضة السعرات الحرارية على عكس الزيوت المكررة الأخرى وتساعد على إنقاص الوزن وتأكد من أنك تستخدم كمية صغيرة فقط من هذه الزيوت أثناء الطهي.</string>
+    <string name="advbellyfattip20title">اختيار الزيوت الصحية</string>
+    <string name="advbellyfattip21">الأطعمة المصنعة عالية السعرات الحرارية وتسبب زيادة الوزن ، وتجنب الأطعمة المصنعة مثل الجبن والفواكه المعلبة واللحوم المعلبة والمربيات والكاتشب وما إلى ذلك ، إذا كنت تريد إنقاص الوزن.</string>
+    <string name="advbellyfattip21title">تجنب الأطعمة المصنعة</string>
+    <string name="advbellyfattip22">أي طعام مقلي باستخدام زيوت مكررة غني بالسعرات الحرارية ، تأكد من استهلاك الأطعمة المطبوخة بالبخار أو المشوية ذات السعرات الحرارية المنخفضة إذا كنت تريد إنقاص الوزن.</string>
+    <string name="advbellyfattip22title">لا تأكل الأطعمة المقلية</string>
+    <string name="advbellyfattip23">تناول وجبات خفيفة غنية بالألياف والبروتينات ، وتأكد أيضًا من انخفاض الوجبات الخفيفة في السعرات الحرارية ، وتشمل بعض الوجبات الخفيفة الصحية الزبادي اليوناني والمكسرات وزبدة الفول السوداني وخبز القمح الكامل وشرائح التفاح إلخ.</string>
+    <string name="advbellyfattip23title">تناول وجبات خفيفة صحية</string>
+    <string name="advbellyfattip24">يمكن استخدام الشوكولاتة الداكنة كوجبة خفيفة ، والشوكولاتة الداكنة تحتوي على دهون صحية تجعلك ممتلئة لفترة طويلة وتقلل من الرغبة الشديدة في فقدان الوزن.</string>
+    <string name="advbellyfattip24title">أكل الشوكولاته الداكنة</string>
+    <string name="advbellyfattip25">مضغ الطعام ببطء أثناء الوجبة يقلل من السعرات الحرارية ويزيد من الهرمونات المرتبطة بفقدان الوزن ، وتأكد أيضًا من مضغ الطعام جيدًا أثناء تناول الطعام إذا كنت تريد إنقاص وزنك.</string>
+    <string name="advbellyfattip25title">مضغ ببطء أثناء تناول الطعام</string>
+    <string name="advbellyfattip26">تساعد إضافة التوابل على الطعام على حرق السعرات الحرارية وزيادة التمثيل الغذائي ، وتشمل بعض التوابل التي تساعد على إنقاص الوزن الكركم والقرفة وبذور الكمون والزنجبيل والثوم والفلفل الأسود.</string>
+    <string name="advbellyfattip26title">توابل لانقاص الوزن</string>
+    <string name="advbellyfattip27">بذور الكتان غنية بالبروتينات والألياف ، وبذور الكتان تعزز عملية التمثيل الغذائي وتجعلك تشعر بالشبع لفترة طويلة مما يساعد على تقليل الرغبة الشديدة في تناول الطعام ويساعد في تخفيف الوزن.</string>
+    <string name="advbellyfattip27title">تستهلك بذور الكتان</string>
+    <string name="advbellyfattip28">ممارسة اليوغا بانتظام يساعدنا على إنقاص الوزن ، أداء اليوغا يساعد على حرق السعرات الحرارية ويحسن أيضك ، بعض من أوضاع اليوغا لفقدان الوزن هي وضع القوس ، وضع الطفل ، وضع المثلث ، كرسي الكرسي الملتوي ، سوريا ناماسكارا إلخ.</string>
+    <string name="advbellyfattip28title">اليوغا لانقاص الوزن</string>
+    <string name="advbellyfattip29">من الضروري معرفة مقدار السعرات الحرارية كل يوم ، واستخدام عداد السعرات الحرارية لحساب السعرات الحرارية ، وكمية السعرات الحرارية تعتمد على عدة عوامل مثل الجنس والعمر والوزن والطول والأنشطة ، وما إلى ذلك ، في المتوسط ​​تحتاج المرأة إلى 2000 سعرة حرارية لكل</string>
+    <string name="advbellyfattip29title">تتبع عدد السعرات الحرارية</string>
+    <string name="advbellyfattip2title">هل تمارين القلب</string>
+    <string name="advbellyfattip3">الأطعمة السريعة تحتوي على نسبة عالية من السكر والسعرات الحرارية والدهون غير الصحية التي تسبب زيادة الوزن وتجنب الأطعمة السريعة مثل البيتزا والهوت دوج والبطاطس المحمرة والهامبرغر وغيرها لفقدان الوزن.</string>
+    <string name="advbellyfattip30">التمرين مع أصدقائك ليس متعة فحسب ، بل يحفزك أيضًا على إنقاص وزنك ، فقد وجدت دراسة عن السمنة أن الأشخاص الذين يعانون من زيادة الوزن يميلون إلى إنقاص الوزن إذا كانوا بصحبة أصدقاء صالحين.</string>
+    <string name="advbellyfattip30title">ممارسة مع أصدقائك</string>
+    <string name="advbellyfattip3title">لا تستهلك الأطعمة السريعة</string>
+    <string name="advbellyfattip4">المشي يساعد على حرق السعرات الحرارية ، وتأكد من المشي بانتظام بوتيرة سريعة إذا كنت تريد إنقاص وزنك ، كما يساعدك المشي على فقدان الدهون في البطن مما يؤدي إلى فقدان الوزن.</string>
+    <string name="advbellyfattip4title">المشي بانتظام لانقاص الوزن</string>
+    <string name="advbellyfattip5">هناك الأطعمة التي تحتوي على نسبة عالية من السكر المضاف ، وهذه الأطعمة تحتوي على نسبة عالية من السعرات الحرارية وتؤدي إلى زيادة الوزن ، وتجنب الأطعمة مثل الحلوى والمعجنات والكعك والحلويات وغيرها ، إذا كنت تريد إنقاص الوزن.</string>
+    <string name="advbellyfattip5title">تجنب الأطعمة التي تحتوي على السكر المضاف</string>
+    <string name="advbellyfattip6">الأطعمة التي تحتوي على نسبة عالية من البروتين تزيد من عملية الأيض وتساعد على حرق السعرات الحرارية في الجسم ، والأطعمة الغنية بالبروتين تجعلك ممتلئًا وتقلل من الرغبة الشديدة في تناول الطعام مما يساعد في إنقاص الوزن.</string>
+    <string name="advbellyfattip6title">تستهلك الأطعمة الغنية بالبروتين</string>
+    <string name="advbellyfattip7">من الضروري النوم لمدة 7 إلى 8 ساعات على الأقل يوميًا ، والحرمان من النوم يؤدي إلى الرغبة الشديدة في تناول الوجبات السريعة التي تسبب زيادة الوزن ، وتأكد من حصولك على نوم كافٍ إذا كنت ترغب في إنقاص الوزن.</string>
+    <string name="advbellyfattip7title">الحصول على قسط كاف من النوم</string>
+    <string name="advbellyfattip8">تستهلك الأطعمة الغنية بالألياف مثل الفواكه والخضروات والفاصوليا والبقول والحبوب والمكسرات ، والأطعمة الليفية منخفضة في السعرات الحرارية ، كما أنها تجعلك ممتلئة مما يساعد في فقدان الوزن.</string>
+    <string name="advbellyfattip8title">تناول الأطعمة الغنية بالألياف</string>
+    <string name="advbellyfattip9">قلل من تناول الأطعمة التي تحتوي على الكربوهيدرات في نظامك الغذائي ، واستهلاك المزيد من الكربوهيدرات يؤدي إلى زيادة الوزن حيث يتم تخزينها كدهون في جسمك.</string>
+    <string name="advbellyfattip9title">تقليل الكربوهيدرات في نظامك الغذائي</string>
+    <string name="bent_leg_twist">ثني الساق تويست</string>
+    <string name="bicycle_crunches">الجرش دراجة</string>
+    <string name="burpees">تمارين بيربي</string>
+    <string name="burpees_desc">قف مع عرض قدميك على حدة ، والوزن في الكعبين ، وذراعيك على جانبيك ، ودفع الوركين للخلف ، وثني الركبتين ، وخفض جسمك إلى وضع القرفصاء ، ووضع يديك على الأرض مباشرة أمام ، و</string>
+    <string name="buttocks_title">الأرداف تجريب</string>
+    <string name="cancel">إلغاء</string>
+    <string name="check_internet_str">يرجى التحقق من اتصال الإنترنت ..</string>
+    <string name="clapping_crunches">التصفيق الجرش</string>
+
+    <string name="confirm">تؤكد!!</string>
+    <string name="countdown_time">وقت العد التنازلي</string>
+    <string name="counter_time_key">counter_time</string>
+    <string name="cross_arm_crunches">عبر الجرش الذراع</string>
+    <string name="crunches">الجرش</string>
+    <string name="crunches_desc">استلقِ على الأرض ، ضع يديك خلف رأسك ، انحنى للأمام وللأمام حتى ترفع رأسك وعنقك وشفرات الكتف عن الأرض ، والآن ، ضعفي نفسك ببطء ، كرر ذلك ،</string>
+    <string name="cycles_text">دورة</string>
+    <string name="days">أيام</string>
+    <string name="dead_bug">علة ميتة</string>
+    <string name="dead_bug_desc">ابدأ بالكذب بظهرك على الأرض ، ارفع ركبتيك واجعله متعامدًا على الأرض ، مدّ ذراعيك ، مشيرًا إلى السقف ، والآن ، مد ذراعك اليمنى نحو رأسك وخفض ساقك اليسرى ، عد إلى البداية</string>
+    <string name="desc_adductor_strect_in_standing">في البداية ، أبقِ قدميك على بعد بضعة بوصات من يديك على مفصل الفخذ ، والآن ، مدّ جسمك إلى اليسار ، عن طريق ثني ساقك اليسرى ، كن في هذا الموضع لبعض الوقت ، والعودة إلى الموضع الأصلي ، كرر نفس الشيء ل</string>
+    <string name="desc_butt_bridge">استلق على ظهرك بيديك على جانبيك ، ثني ركبتيك وقدميك مسطحة على الأرض ، ارفعي الوركين لأعلى لتكوين خط مستقيم من ركبتيك إلى كتفيك ، إذا تراجعت أو تراجعت الفخذان ، ضع نفسك على الأرض مرة أخرى ،</string>
+    <string name="desc_clapping_crunches">استلق على الأرض ، ارفع الجزء العلوي من جسمك وثني ركبتيك ، الآن ، صفق تحت الركبتين ، برفع الساقين بدلاً من ذلك ،  n  n</string>
+    <string name="desc_clapsoverhead">في البداية ، قف من خلال الحفاظ على قدميك ، وبضع بوصات ، والآن ، فقط ارفع ذراعيك وصفق رأسك ، كرر هذا ،  n  n</string>
+    <string name="desc_donkeykicksleft">في البداية أنزل على يديك وركبتيك ، ارفع الساق اليسرى الآن مع ثني الركبة والساق متجهًا نحو السقف ، وتمدد الساق والعودة إلى الموضع الأولي ، كرر ذلك ،</string>
+    <string name="desc_donkeykicksright">في البداية أنزل يديك وركبتيك ، ارفع الساق اليمنى الآن مع ثني الركبتين والساق متجهًا نحو السقف ، وتمدد الساق والعودة إلى الموضع الأولي ، كرر ذلك ،  n  n</string>
+    <string name="desc_fire_hydrant_left">في البداية ، ركبت على يديك وركبتيك ، الآن ، ثني ركبتك اليسرى وارفع ساقك اليسرى إلى الجانب ، حتى تصل إلى نفس مستوى الفخذ ،  n  n</string>
+    <string name="desc_fire_hydrant_right">في البداية ، ركبت على يديك وركبتيك ، الآن ، ثني ركبتك اليمنى وارفع ساقك اليمنى إلى الجانب ، حتى تصل إلى نفس مستوى الفخذ ،  n  n</string>
+    <string name="desc_heeltouch">في البداية ، استلق على ظهرك وثني ساقيك ، خذ دعم يديك على الجانب ، ارفع رأسك ولمس كعبك بدلاً من يديك ،  n  n</string>
+    <string name="desc_lunges">ابدأ بالوقوف ، مع قليل من قدميك عن بعضهما البعض ، ابق يديك على الفخذ ، مد ساقك اليمنى واسقط جسمك لأسفل ، حتى يكون فخذك الأيمن موازٍ للأرض ، عد إلى الموضع المبدئي وكرر ذلك على</string>
+    <string name="desc_plie_squats">قف مستقيماً وحرك ساقيك بحيث تكون أوسع من عرض الكتفين عن بعضها البعض مع ثني ركبتيك قليلاً ، ثني الركبتين ببطء وخفض ساقيك حتى يصبح الفخذان متوازيين مع الأرض ، اضغط بشكل أساسي مع كعب القدم حتى</string>
+    <string name="desc_side_leg_rise_left">ابدأ بالكذب على جانبك ، مع وضع الرأس على ذراعك الأيمن ، والآن ، ارفع ساقك اليسرى ثم عد إلى الموضع الأولي ، كررها ،  n  n</string>
+    <string name="desc_side_leg_rise_right">ابدأ بالكذب على جانبك ، مع وضع الرأس على ذراعك الأيسر ، والآن ، ارفع ساقك اليمنى ثم عد إلى الموضع الأولي ، كررها ،  n  n</string>
+    <string name="desc_side_lunges">في البداية ، قف عن طريق الحفاظ على قدميك ، وبضع بوصات ، وتمديد ساقك اليمنى ، عن طريق خفض الجسم والحفاظ على ساقك اليسرى مستقيمة ، والعودة إلى الموضع الأولي وتكرار ذلك على الساق اليسرى ،</string>
+    <string name="desc_standing_bicycle_crunches">قف مع قدميك ، وبضع بوصات ، ارفع ركبتك اليمنى باتجاه كوعك الأيسر ، ثم عد إلى الوضعية الأولى ، كرر ذلك على الجانب الآخر</string>
+    <string name="desc_swimming_and_superman">استلقي ووجهك لأسفل ، من خلال مد يديك للأمام ، ارفع ذراعك وساقك المقابلين بدلاً من ذلك ..  n  n</string>
+    <string name="dips">الانخفاضات</string>
+    <string name="dips_desc">ضع يديك على حافة المقعد ، والآن ، اخفض جسمك ببطء عن طريق ثني المرفقين ، وادفع نفسك ببطء إلى وضع البداية ، كرره ،</string>
+    <string name="duration">المدة الزمنية</string>
+    <string name="evening_title">تمتد المساء</string>
+    <string name="exercise_time">وقت التمرين</string>
+    <string name="exercises">تمارين</string>
+    <string name="exit_app_msg">هل ترغب في الخروج؟</string>
+
+    <string name="fatburn_title">حرق الدهون تجريب</string>
+
+    <string name="finished">تم الانتهاء من</string>
+    <string name="fri">يوم الجمعة</string>
+    <string name="jumpingjacks">القفز الرافعات</string>
+    <string name="jumpingjacks_desc">في البداية ، قف من خلال الحفاظ على قدميك ، وبضع بوصات ، والآن ، فقط قم بتمديد ذراعيك وتمديده بالأعلى مع ثني ركبتيك قليلاً وتمديد ساقيك ، والآن عد إلى وضع البداية كرر هذا ،</string>
+    <string name="languages">لغة</string>
+    <string name="leg_drops">قطرات الساق</string>
+    <string name="leg_drops_desc">ابدأ بالكذب بظهرك على الأرض ، واحتفظ بيديك على الجانب وارفع ساقيك بزاوية 90 درجة ، وشعر بالضغط على القيمة المطلقة ، والآن ، قم بخفض ساقيك قليلاً والعودة مرة أخرى ، كرر هذا ،  n </string>
+    <string name="legliftleft">رفع الساق اليسار</string>
+    <string name="legliftleft_desc">كن على أصابع قدميك وذراعيك مع جسمك مستقيمًا ، ارفع ساقك اليسرى ببطء واحتفظ به ، عد الآن إلى الموضع الأولي ، كرره ،</string>
+    <string name="legliftright">رفع الساق اليمين</string>
+    <string name="legliftright_desc">كن على أصابع قدمك وساعديك مع جسمك مستقيمًا ، ارفع ساقك اليمنى ببطء واحمله ، عد الآن إلى الموضع الأولي ، كرره</string>
+    <string name="long_arm_crunches">الجرش الذراع الطويلة</string>
+    <string name="long_arm_crunches_desc">الاستلقاء مع ثني ركبتيك ، مد ذراعيك نحو رأسك ، ارفع الجزء العلوي من جسمك بزاوية 30 درجة ، والعودة إلى الموضع الأولي ، كرر هذا ،  n  n</string>
+    <string name="mon">الإثنين</string>
+    <string name="monday">الإثنين</string>
+    <string name="morning_title">صباح الاحماء</string>
+    <string name="mountainclimbing">تسلق الجبال</string>
+    <string name="mountainclimbing_desc">ندخل في وضع اللوح الخشبي ، على اليدين والأصابع ، يجب أن تكون يديك على وشك عرض الكتفين ، مسطح الظهر ، عبس عبس ، والرأس في محاذاة ، من هذا الموقف ، وسحب الركبة اليمنى في صدرك بقدر ما تستطيع ،</string>
+    <string name="next">التالى</string>
+    <string name="noreminders">لا تذكير</string>
+    <string name="ok">حسنا</string>
+    <string name="plank">لوح خشب</string>
+    <string name="please_select_at_least_one_day">يرجى اختيار يوم واحد على الأقل</string>
+    <string name="pushups">دفع ما يصل</string>
+    <string name="pushups_desc">في البداية ، ضع وجهك على الأرض ، ضع ذراعيك ولمس الأرض ، ارفع نفسك عن طريق دفع الأرض بعيدًا عنك ، كرر هذا ،</string>
+    <string name="quit_workout">هل ترغب في إنهاء التمرين؟</string>
+    <string name="rate_us_str">قيمنا</string>
+    <string name="ready_to_go">جاهز للذهاب</string>
+    <string name="reclined_oblique_twist">مائل تويست منحرف</string>
+    <string name="reclined_oblique_twist_desc">استلق على ظهرك ، ارفع الجزء العلوي من جسمك ، مع المرفقين على الجانب للحصول على الدعم ، ارفع ساقك اليسرى والوصول إلى الكاحل ، باستخدام يدك اليمنى ، والعودة إلى الموضع الأولي وتكرار ذلك على الجانب الآخر ، </string>
+    <string name="reminder_str">تذكير</string>
+    <string name="rest_time_key">rest_time</string>
+    <string name="rest_time_str">وقت الراحة</string>
+    <string name="reverse_crunches">الجرش العكسي</string>
+     <string name="russian_twist">تحويلة روسية</string>
+    <string name="russian_twist_desc">اجلس على السجادة ، عن طريق ثني ركبتيك ، واستند إلى الوراء قليلاً وثني ذراعيك ، والآن قم بتحريف ذراعيك إلى اليسار واليمين ،</string>
+    <string name="russiantwists">التقلبات الروسية</string>
+    <string name="russiantwists_desc">اجلس على السجادة ، عن طريق ثني ركبتيك ، واستند إلى الوراء قليلاً وثني ذراعيك ، والآن قم بتحريف ذراعيك إلى اليسار واليمين ،</string>
+
+    <string name="sat">يوم السبت</string>
+    <string name="scissors">مقص</string>
+    <string name="scissors_desc">ابدأ الاستلقاء على الظهر مع الذراعين بجانب الجانب والأرجل مدببة مباشرة في الهواء أعلى الوركين ، واضغط على أسفل الظهر في الحصيرة بحيث يكون ABS ضيقًا ، أسفل الساق اليمنى على بعد بضع بوصات من حصيرة ، بينما ترفع الساق اليمنى لأعلى ، ابدأ في خفض الساق اليسرى</string>
+
+    <string name="seconds_text">ثواني</string>
+    <string name="set">جلس</string>
+    <string name="set_reminder">تعيين تذكير</string>
+    <string name="set_your_preferable_exercise_time">اضبط وقت التمرين المفضل لديك</string>
+    <string name="share_app_str">شارك</string>
+    <string name="side_leg_rise_left">الساق الجانبية ترتفع اليسار</string>
+    <string name="side_leg_rise_right">الساق الجانبية ترتفع اليمين</string>
+
+    <string name="skip">تخطى</string>
+    <string name="sound">صوت</string>
+    <string name="squats">يجلس القرفصاء</string>
+    <string name="squats_desc">قف مع ساقيك على بعد بضع بوصات ، وتمد ذراعيك إلى الأمام واسقط الجسم لأسفل ، حتى تكون فخذيك موازية للأرض ، والآن عد إلى الموضع الأولي ، كرر ذلك ،</string>
+    <string name="standing_bicycle">يقف دراجة</string>
+    <string name="standing_bicycle_desc">قف مع قدميك ، على بعد بضع بوصات ، ارفع ركبتك اليمنى باتجاه كوعك الأيسر ، والعودة إلى الموضع الأولي ، كرر ذلك على الجانب الآخر ،  n  n</string>
+    <string name="start">بداية</string>
+
+    <string name="sun">الأحد</string>
+    <string name="swimming_and_superman">السباحة وسوبرمان</string>
+    <string name="swimming_and_superman_desc">استلقي ووجهك لأسفل ، من خلال مد يديك للأمام ، ارفع ذراعك وساقك المقابلين بدلاً من ذلك ،  n  n</string>
+    <string name="tab1">تدريب</string>
+    <string name="tab2">الروتين</string>
+    <string name="tab3">الملف الشخصي</string>
+    <string name="tab4">نصائح</string>
+    <string name="thri">الخميس</string>
+    <string name="thursday">الخميس</string>
+    <string name="time_saved">الوقت الموفر !!!</string>
+    <string name="tip">تلميح</string>
+    <string name="trunk_rotation">دوران الجذع</string>
+    <string name="trunk_rotation_desc">في البداية ، قف من خلال الحفاظ على قدميك ، بعرض بضع بوصات ، ارفع ذراعيك عن طريق ثني المرفقين وجلب ذراعيكما معًا ، حرك جسمك إلى اليسار وإلى اليمين ، كرر هذا ،</string>
+    <string name="tu">الثلاثاء</string>
+    <string name="wed">الأربعاء</string>
+    <string name="weightloss_title">فقدان الوزن تجريب</string>
+
+    <string name="wl_bicycle_crunches">الجرش دراجة</string>
+    <string name="wl_butt_bridge">بعقب الجسر</string>
+    <string name="wl_clapping_crunches">التصفيق الجرش</string>
+    <string name="wl_clapsoverhead">التصفيق فوق الرأس</string>
+
+    <string name="wl_donkeykicksright">حمار الركلات الصحيحة</string>
+    <string name="wl_fire_hydrant_left">صنبور النار اليسار</string>
+    <string name="wl_fire_hydrant_right">صنبور النار الصحيح</string>
+    <string name="wl_flutter_kicks">ركلات رفرفة</string>
+
+
+    <string name="wl_plank">لوح خشب</string>
+    <string name="wl_plie_squats">يجلس القرفصاء منحنى</string>
+    <string name="wl_side_lunges">طعنة جانبية</string>
+    <string name="wl_squats">يجلس القرفصاء</string>
+    <string name="wl_standing_bicycle_crunches">يقف الجرش دراجة</string>
+    <string name="wl_swimmer_and_superman">سباح وسوبرمان</string>
+    <string name="wl_swimming_and_superman">سباح وسوبرمان</string>
+    <string name="wl_wallpushups">الجدار بوشوبس</string>
+
+    <string name="Day_Planner_Reminder">تذكير مخطط اليوم</string>
+    <string name="noti1"> حان وقت التمرين .. </string>
+    <string name="noti2"> تمرين الإناث </string>
+    <string name="noti3"> مرحبًا! وقت التمرين </string>
+    <string name="noti4"> يتيح بدء التمرين </string>
+
+    <string name="butocks"> الأرداف </string>
+    <string name="weight"> فقدان الوزن </string>
+    <string name="Abs"> القيمة المطلقة </string>
+    <string name="Fatbrn"> حرق الدهون </string>
+    <string name="workout"> تجريب </string>
+    <string name="save"> حفظ </string>
+    <string name="takerestspeak"> استرح </string>
+
+    <string name="JUMPINGJACKS"> رافعات القفز </string>
+    <string name="JUMPINGJACKSDESCRIPTION"> كن في وضع الوقوف ، الآن ، اقفز عن طريق مد يديك وساقيك للخارج ، </string>
+
+
+    <string name="wl_donkeykicksleft">حمار ركلات اليسار</string>
+    <string name="DONKEYKICKSRIGHT">حمار ركلات اليسار</string>
+    <string name="DONKEYKICKSRIGHTDESCIPTION">في البداية أنزل على يديك وركبتيك ، ارفع الساق اليمنى الآن مع ثني الركبة والساق متجهين نحو السقف ، وتمدد الساق والعودة مرة أخرى إلى الوضع الأولي ، كرر ذلك ،</string>
+
+    <string name="SIDELYINGLEGLIFTLEFT">الجانب الكذب الساق رفع اليسار</string>
+    <string name="SIDELYINGLEGLIFTLEFTDESCRIPTION">ابدأ بالكذب على جانبك ، مع وضع الرأس على ذراعك الأيمن ، والآن ، ارفع ساقك اليسرى ثم عد إلى الموضع الأولي ، كررها</string>
+    <string name="wl_side_lying_leg_lift_left">الجانب الكذب الساق رفع اليسار</string>
+
+    <string name="wl_side_lying_leg_lift_right">الجانب الكذب الساق رفع اليمين</string>
+    <string name="SIDELYINGLEGLIFTRIGHT">الجانب الكذب الساق رفع اليمين</string>
+    <string name="SIDELYINGLEGLIFTRIGHTDESCRIPTION">ابدأ بالاستلقاء على جانبك ، مع وضع الرأس على ذراعك الأيسر ، والآن ، ارفع ساقك اليمنى ثم عد إلى الموضع الأولي ، كررها ،</string>
+
+    <string name="butt_bridge">بعقب الجسر</string>
+    <string name="butt_bridge_desc">ابدأ بالاستلقاء على ظهرك ، ثني ساقيك ، خذ دعم يديك على الجانب ، وارفع بعقبك ، ثم اسقطه ، كرره</string>
+    <string name="BUTTBRIDGE">بعقب الجسر</string>
+    <string name="BUTTBRIDGEDESCRIPTION">ابدأ بالاستلقاء على ظهرك ، ثني ساقيك ، خذ دعم يديك على الجانب ، وارفع بعقبك ، ثم اسحبه ، كرره ،</string>
+
+    <string name="wl_heeltouch">لمسة جدا</string>
+    <string name="HEELTOUCH">لمسة جدا</string>
+    <string name="HEELTOUCHDESCRIPTION">في البداية ، استلق على ظهرك وثني ساقيك ، خذ دعم يديك على الجانب ، ارفع رأسك ولمس كعبك بدلاً من يديك ،</string>
+
+    <string name="wl_lunges">الطعنات</string>
+    <string name="LUNGES">الطعنات</string>
+    <string name="LUNGESDESCRIPTION"> ابدأ بالوقوف مع إبقاء قدميك على بعد بضع بوصات ، ابق يديك على الورك ، وقم بتمديد ساقك اليمنى وأسقط جسمك ، حتى يصبح فخذك الأيمن موازيًا للأرض ، عد إلى الموضع الأولي وكرر نفس الشيء على الساق اليسرى ، </string>
+
+    <string name="mountain_climber">متسلق الجبال</string>
+    <string name="mountain_climber_desc">في البداية ، كن في موضع الدفع لأعلى ، من خلال الحفاظ على الساق اليسرى مستقيمة ، ثني ركبتك اليمنى ، الآن ، انتقل إلى الموضع الأولي وكررها على الساق الأخرى ، دع التبديل بين الجانبين سريعًا ،  n </string>
+
+    <string name="MOUNTAINCLIMBER">متسلق الجبال</string>
+    <string name="MOUNTAINCLIMBERDESCRIPTION"> في البداية ، كن في وضع تمرين الضغط ، من خلال الحفاظ على ساقك اليسرى مستقيمة ، ثني ركبتك اليمنى ، الآن ، انتقل إلى الموضع الأولي وكرر نفس الشيء في الساق الأخرى ، دع التبديل بين تكون الجوانب سريعة </string>
+
+    <string name="FLUTTERKICKS">ركلات رفرفة</string>
+    <string name="FLUTTERKICKSDESCRIPTION">ابدأ بالاستلقاء على ظهرك ، واحتفظ بذراعيك على الجانب وارفع ساقيك ، دع الأرجل مستقيمة قدر الإمكان ، والآن ، ارفع ساقك اليمنى بسرعة ، وفي الوقت نفسه ، اخفض ساقك اليسرى ، ثم افعل نفس الشيء</string>
+    <string name="flutter_kicks">ركلات رفرفة</string>
+    <string name="flutter_kicks_desc">ابدأ بالاستلقاء على ظهرك ، واحتفظ بذراعيك على الجانب وارفع ساقيك ، دع الأرجل مستقيمة قدر الإمكان ، والآن ، ارفع ساقك اليمنى بسرعة ، وفي الوقت نفسه ، اخفض ساقك اليسرى ، ثم افعل نفس الشيء على</string>
+
+
+    <string name="wl_adductor_strect_in_standing">تمتد المقرب في الوقوف</string>
+    <string name="ADDUCTORSTRECHINSTANDING">تمتد المقرب في الوقوف</string>
+    <string name="ADDUCTORSTRECHINSTANDINGDESCRIPTION">في البداية ، أبقِ قدميك على بعد بضعة بوصات من يديك على مفصل الفخذ ، والآن ، مدّ جسمك إلى اليسار ، عن طريق ثني ساقك اليسرى ، كن في هذا الموضع لبعض الوقت ، والعودة إلى الموضع الأصلي ، كرر نفس الشيء ل</string>
+
+
+    <string name="FIREHYDRANTLEFT">صنبور النار اليسار</string>
+    <string name="FIREHYDRANTLEFTDESCRIPTION">في البداية أنزل على يديك وركبتيك ، الآن ، ثني ركبتك اليسرى وارفع ساقك اليسرى إلى الجانب ، حتى يكون في نفس مستوى الورك ،</string>
+    <string name="firehydrantleft">صنبور النار اليسار</string>
+    <string name="firehydrantleft_desc">في البداية ، ركبت على يديك وركبتيك ، الآن ، ثني ركبتك اليسرى وارفع ساقك اليسرى إلى الجانب ، حتى يكون في نفس مستوى الفخذ ،  n  n</string>
+
+    <string name="firehydrantright">صنبور مياه حريق الصحيح</string>
+    <string name="firehydrantright_desc">في البداية ، ركبت على يديك وركبتيك ، الآن ، ثني ركبتك اليمنى وارفع ساقك اليمنى إلى الجانب ، حتى يكون في نفس مستوى الفخذ ،  n  n</string>
+    <string name="FIREHYDRANTRIGHT">صنبور مياه حريق الصحيح</string>
+    <string name="FIREHYDRANTRIGHTDESCRIPTION">في البداية أنزل على يديك وركبتيك ، الآن ، ثني ركبتك اليمنى وارفع ساقك اليمنى إلى الجانب ، حتى يكون في نفس مستوى الفخذ ،</string>
+
+<!--    men-->
+<!--    -->
+
+
+    <string name = "butocks1"> الذراع </string>
+    <string name = "Fatbrn1"> الصدر </string>
+    <string name = "buttocks_title1"> تمارين الذراع </string>
+    <string name = "fatburn_title1"> تمرين الصدر </string>
+
+
+
+
+
+
+
+    <string name = "test_string"> xxx </string>
+
+
+    <string name = "abs"> v crunch </string>
+    <string name = "v_crunch_desc"> اجلس على مؤخرتك وترفع ساقيك وظهرك لأعلى. الآن ارفع ظهرك واحضر ركبتيك نحو الصدر ، ثم عد إلى نفس الوضع. </string>
+    <string name = "abs1"> أزمة التصفيق </string>
+    <string name = "abs2"> ركلات رفرفة </string>
+    <string name = "abs3"> اللوح الخشبي </string>
+    <string name = "side_crunches_right_desc"> استلقِ على الأرض على جانبك الأيمن. ضع يدك أسفل رأسك والثانية على خصرك للدعم. الآن اسحب جسمك لأعلى حتى تشعر بالتقلص ثم تعود ببطء في نفس الوضع. </string>
+    <string name = "abs4"> الجرش العكسي </string>
+    <string name = "side_crunches_left_desc"> استلق على الأرض على جانبك الأيسر. ضع يدك أسفل رأسك والثانية على خصرك للدعم. الآن اسحب جسمك لأعلى حتى تشعر بالتقلص ثم تعود ببطء في نفس الوضع. </string>
+    <string name = "abs5"> تطور الساق المنحنية </string>
+    <string name = "abs6"> تمارين الدراجات </string>
+    <string name = "abs7"> الجرش عبر الذراع </string>
+    <string name = "abs8"> x man crunch </string>
+    <string name = "abs9"> قوارب مجداف الدمبل </string>
+    <string name = "abs10"> تمارين الدمبل </string>
+    <string name = "x_man_crunch_desc"> الاستلقاء على الأرض. افرد رجليك ويديك. الآن ادفع ظهرك للأعلى مع طي رجليك ويديك معًا. </string>
+    <string name = "abs11"> أزمة ولكمات الدمبل </string>
+    <string name = "dumbbell_paddle_boats_desc"> اجلس على الأرض على مؤخرتك. حرك ساقيك وضع كعبيك على الأرض. الآن أمسك الدمبل أو أي وزن وفقًا لقوتك وادفع هذا الدمبل نحو الأرض في الاتجاه الأيسر أو الأيمن من خلال الفتح ساقيك بشكل مستقيم ودفع ظهرك نحو الأرض. </string>
+    <string name = "abs12"> ارتفاع الرجل الجانبي الأيسر </string>
+    <string name = "dumbbell_crunches_desc"> استلق على الأرض وثني ركبتيك. أمسك الدمبل وفقًا لقوتك ، الآن ادفع ظهرك للأعلى وقم بتوجيه يديك في الاتجاه الصعودي ، والآن قم أولاً بوضع يديك في نفس الوضع ثم ظهرك. </string>
+    <string name = "abs13"> ارتفاع الساق الجانبي لليمين </string>
+    <string name = "abs14"> تمتد الكذب تمتد اليمين </string>
+    <string name = "abs15"> واحد لأسفل بنقطتين </string>
+    <string name = "abs16"> أزمة لمس إصبع القدم الدمبل يمينًا </string>
+    <string name = "abs17"> أزمة لمس إصبع القدم الدمبل اليسار </string>
+    <string name = "abs18"> v عقد </string>
+    <string name = "abs19"> تمرير دراجة الدمبل </string>
+    <string name = "abs20"> شد تعذيب الدمبل </string>
+    <string name = "abs21"> عضلات بطن عكس اتجاه عقارب الساعة </string>
+    <string name = "abs22"> القيمة المطلقة في اتجاه عقارب الساعة </string>
+    <string name = "abs23"> أزمة طفيفة </string>
+    <string name = "abs24"> الانحناء الجانبي الدمبل لليمين </string>
+    <string name = "abs25"> الانحناء الجانبي الدمبل لليسار </string>
+    <string name = "abs26"> لوح الركبة المتقاطع </string>
+    <string name = "abs27"> اليسار المائل للأعلى في اليسار </string>
+    <string name = "abs28"> رفع مائل لليمين </string>
+    <string name = "abs29"> يطحن مع رفع الساقين </string>
+    <string name = "abs30"> alt v لأعلى </string>
+    <string name = "abs31"> تمتد الكذب تمتد اليسار </string>
+    <string name = "abs32"> وضع الأطفال </string>
+    <string name = "abs33"> امتداد الكوبرا </string>
+    <string name = "abs34"> اللوح الجانبي الأيسر </string>
+    <string name = "abs35"> اللوح الجانبي الأيمن </string>
+    <string name = "abs36"> تطور الدمبل الروسي </string>
+    <string name = "abs37"> v لأعلى </string>
+    <string name = "abs38"> تمارين جانبية يمينًا </string>
+    <string name = "abs39"> تمارين جانبية متبقية </string>
+    <string name = "abs40"> اجلس بشكل ملتوي </string>
+    <string name = "abs41"> كعب الجنة </string>
+    <string name = "abs42"> لمسة كعب </string>
+
+    <string name = "dumbbell_crunch_and_punches_desc"> استلق على الأرض وثني ركبتيك. ارفع الدمبل في كل يد. الآن ادفع ظهرك للأعلى وادفع يدك اليسرى لأعلى ، والآن استرجع يديك واذهب إلى الوضع الطبيعي وافعل الشيء نفسه باليد اليمنى. </string>
+    <string name = "lying_twist_stretch_right_desc"> استلقِ على ظهرك من خلال شد ذراعيك. الآن ، قم بلف ركبتيك معًا إلى اليمين. كن في هذا الموقف. </string>
+    <string name = "one_down_two_ups_desc"> استلقِ على ظهرك واجعل يديك تسترخي على الأرض. الساقان باتجاه السماء تنزلان إحدى ساقيهما إلى أسفل قليلاً على الأرض وتفعلان نفس الشيء مع ساق أخرى. </string>
+    <string name = "dumbbell_toe_touch_crunch_left_desc"> استلقِ على الأرض مع رفع يدك اليسرى وإمساك الدمبل في يدك ووضع يدك اليمنى على الأرض. اجعل ساقك اليمنى مستقيمة وثني ساقك اليسرى ، والآن ارفع كتفك وساقك كما يجب أن تلمس إصبعك بالدمبل. ثم عد إلى الوضع الطبيعي. </string>
+    <string name = "dumbbell_toe_touch_crunch_right_desc"> استلقِ على الأرض مع رفع يدك اليمنى وأمسك الدمبل في تلك اليد ووضع يدك اليسرى على الأرض. اجعل ساقك اليسرى مستقيمة وثني ساقك اليمنى الآن ارفع كتفك وساقك كما يجب أن تلمس إصبعك بالدمبل. ثم عد إلى الوضع الطبيعي. </string>
+    <string name = "v_hold_desc"> اجلس على الأرض على مؤخرتك. الآن ارفع ظهرك بزاوية 45 درجة وارفع ساقك 90 درجة إلى الأرض ، ثني ركبتيك ومد يديك نحو الركب. تشغل هذا المنصب لوقت معين. </string>
+    <string name = "dumbbell_bicycle_passes_desc"> اجلس على مؤخرتك ، ظهرك مرفوع ويمسك الدمبل في إحدى يديك. الآن ثني ركبة الساق المقابلة وتمرير الدمبل إلى اليد الأخرى واستقامة الساق. افعل نفس الشيء باليد الأخرى. </string>
+    <string name = "dumbbell_torture_tucks_desc"> استلقِ على الأرض مع تمدد يديك فوق رأسك وأمسك الدمبل في يدك. الآن ثني ركبتيك ورفع ظهرك مثل هذا الدمبل يجب أن يلمس ركبتيك. ارجع إلى الموضع الرئيسي. </string>
+    <string name = "seated_abs_counterclockwise_desc"> اجلس على الأرض. ضع الساقين على الأرض مباشرة واعد اليدين مع ثني الكوع للدعم. الآن ارفع كلا الساقين وقم بتدويرهما في عكس اتجاه عقارب الساعة. </string>
+    <string name = "seated_abs_clockwise_desc"> اجلس على الأرض. ضع الساقين على الأرض مباشرة واعد اليدين مع ثني الكوع للدعم. الآن ارفع كلا الساقين وقم بتدويرهما في اتجاه عقارب الساعة. </string>
+    <string name = "ninty_crunch_desc"> استلقِ على ظهرك وضع ساقيك على تسعين درجة على الأرض وثني ركبتك ، والآن ادفع ظهرك إلى أعلى ثم انتقل إلى نفس الوضع.</string>
+    <string name = "dumbbell_side_bend_right_desc"> قف في وضع مستقيم وأمسك الدمبل في يدك اليمنى ، والآن ثني ظهرك نحو الأرض في الاتجاه الصحيح الخاص بك قدر الإمكان ثم عد إلى الوضع الطبيعي. </string>
+    <string name = "dumbbell_side_bend_left_desc"> قف في وضع مستقيم وأمسك دمبلًا واحدًا في اليد اليسرى ، والآن ثني ظهرك نحو الأرض في اتجاهك الأيسر قدر الإمكان ثم عد إلى الوضع الطبيعي. </string>
+    <string name = "cross_knee_plank_desc"> اتخذ موقفًا من اللوح الخشبي ، والآن احضر ركبة واحدة وكوعًا متعاكسًا مثلما يجب أن يلمس كل منهما الآخر ، ثم عاد في وضع اللوح الخشبي.</string>
+    <string name = "oblique_v_ups_left_desc"> استلق على ظهرك. ضع ساقيك على الجانب الأيمن مع ثني الركبتين. ضع يدك اليسرى خلف رأسك للدعم واليد اليمنى مباشرة في اتجاه الساقين. الآن ارفع ظهرك وساقيك في نفس الوقت. والعودة إلى نفس المركز. </string>
+    <string name = "oblique_v_ups_right_desc"> استلق على ظهرك. ضع ساقيك على الجانب الأيسر مع ثني ركبتيك. ضع يدك اليمنى خلف رأسك للدعم واليد اليسرى مستقيمة في اتجاه الساقين. الآن ارفع ظهرك وساقيك في نفس الوقت. والعودة إلى نفس المركز. </string>
+    <string name = "crunches_with_legs_raised_desc"> استلق على الأرض وارفع ساقيك إلى أعلى (تسعين درجة من الأرض). الآن ارفع ظهرك لأعلى حتى تشعر بالتقلص في بطنك ثم تعود ببطء في نفس الموضع. </string>
+    <string name = "alt_v_up_desc"> استلقِ على الأرض وضع يديك خلفك. الآن اسحب ساقك اليسرى واليد اليمنى والظهر مثل ذلك يجب أن تلمس إصبعك بيدك وفي هذه اليد والساق يجب أن تكون مستقيمة قدر الإمكان ثم تعود ببطء في نفس الوضع بعد القيام بنفس الشيء بالساق اليمنى واليد اليسرى. </string>
+
+    <string name = "lying_twist_stretch_left_desc"> استلقِ على ظهرك عن طريق شد ذراعيك. الآن ، قم بلف ركبتيك معًا إلى اليسار. كن في هذا الموقف. </string>
+    <string name = "childs_pose_desc"> اجلس على ركبتيك مع إبقاء أصابع قدميك متباعدة بضع بوصات. ارفع يديك وخفض جسمك عن طريق الزفير. كن في هذه الوضعية. عد من خلال رفع جسمك واستنشاقه. </string>
+    <string name = "cobra_stretch_desc"> استلقِ مع توجيه رأسك للأرض. ضع يديك على جانب كتفيك. الآن ، ارفع صدرك بذراعيك. كن في هذا الوضع لبعض الوقت. </string>
+    <string name = "side_plank_left_desc"> استلق على الأرض على جانبك الأيسر. الآن ارفع جسمك على دعم كوعك وساعدك وكعبيك وشكل خطًا مستقيمًا ، كن في نفس الوضع لفترة معينة. </string>
+    <string name = "side_plank_right_desc"> استلق على الأرض على جانبك الأيمن. الآن ارفع جسمك على دعم كوعك وساعدك وكعبيك وشكل خطًا مستقيمًا ، كن في نفس الوضع لفترة معينة. </string>
+    <string name = "sit_up_twist_desc"> استلقِ على ظهرك وانحنى ركبتيك قليلًا. الآن ارفع ظهرك وقم بإمالة نحو اليمين والعودة إلى موضعك ، والآن قم بنفس الشيء في الاتجاه المعاكس. </string>
+    <string name = "dumbbell_russian_twist_desc"> اجلس على الأرض على مؤخرتك. ارفع ساقيك وثني الركبة قليلاً ثم اخفض ظهرك نحو شكل الأرض مثل الأبجدية الإنجليزية V الآن امسك دمبل أو أي وزن وفقًا لقوتك وادفع ذلك الدمبل نحو الأرض في الاتجاه الأيسر أو الأيمن. </string>
+    <string name = "heels_to_the_heaven_desc"> استلق على الأرض وارفع ساقيك إلى أعلى (تسعين درجة من الأرض) ، والآن ارفع مؤخرتك لأعلى حتى تشعر بالتقلص في بطنك ثم تعود ببطء في نفس الموضع. </string>
+    <string name = "v_up_desc"> استلقي على الأرض ووضعي يديك. الآن اسحب ساقيك ويديك وظهرك هكذا يجب أن تلمس أصابعك بيديك وفي هذه اليدين والساقين يجب أن تكون مستقيمة قدر الإمكان ثم تعود ببطء في نفس الوضع. </string>
+    <string name = "heel_touch_desc"> في البداية ، استلقِ على ظهرك وثني ساقيك. خذ دعم يديك على الجانب ، ارفع رأسك والمس كعبيك بدلًا من ذلك. </string>
+    <string name = "clapping_crunches_desc"> استلق على الأرض. ارفع الجزء العلوي من جسمك وثني ركبتيك. الآن ، صفق تحت الركبتين ، برفع الساقين بالتناوب. </string>
+     <string name = "plank_desc"> كن على أصابع قدميك وساعديك مع جسمك بشكل مستقيم. ابق في هذا الوضع لأطول فترة ممكنة. </string>
+    <string name = "reverse_crunches_desc"> استلقِ على ظهرك وثني ركبتيك. الآن ، اجعلي ركبتيكِ باتجاه رأسك ، عن طريق إبقاء يديك على رأسك. </string>
+    <string name = "bent_leg_twist_desc"> استلق على ظهرك مع مد ذراعيك إلى الجانب. ارفع ساقيك وثني ركبتيك بزاوية 90 درجة. الآن قم بتدوير ركبتيك إلى اليسار. ابق في هذا الوضع لمدة 1-2 دقيقة. ارجع إلى الموضع الأولي وافعل الشيء نفسه على الجانب الأيمن. </string>
+    <string name = "bicycle_crunches_desc"> استلقِ من خلال إبقاء يدك على مؤخرة رأسك. ارفع ركبتك اليمنى وقم بتمديد مرفقك الأيسر نحوها. كرر نفس الشيء للجانب الآخر. </string>
+    <string name = "cross_arm_crunches_desc"> استلقي من خلال ثني ركبتيك. أبق ذراعيك متقاطعتين على صدرك. ارفع الجزء العلوي من جسمك وعد إلى الوضع الأولي. كرر ذلك. </string>
+    <string name = "side_leg_rise_left_desc"> ابدأ بالاستلقاء على جانبك ، مع وضع الرأس على الذراع الأيمن. الآن ، ارفع ساقك اليسرى ثم عد إلى الوضع الأولي. كررها. </string>
+    <string name = "side_leg_rise_right_desc"> ابدأ بالاستلقاء على جانبك ، مع وضع الرأس على الذراع الأيسر. الآن ، ارفع ساقك اليمنى ثم عد إلى الوضع الأولي. كررها. </string>
+
+    <string name = "arm"> انخفاضات ثلاثية الرؤوس </string>
+    <string name = "arm1"> تمرين الضغط </string>
+    <string name = "arm2"> رفض عمليات الدفع </string>
+    <string name = "arm3"> تمارين إمالة </string>
+    <string name = "arm4"> تمارين دفع الذراع </string>
+    <string name = "arm5"> مقص الذراع </string>
+    <string name = "arm6"> تمتد ثلاثية الرؤوس إلى اليسار </string>
+    <string name = "arm7"> تمتد ثلاثية الرؤوس لليمين </string>
+    <string name = "arm8"> تمتد العضلة ذات الرأسين اليسرى إلى اليسار </string>
+    <string name = "arm9"> تمتد العضلة ذات الرأسين الدائمة لليمين </string>
+    <string name = "arm10"> كوع الظهر </string>
+    <string name = "arm11"> تمارين الذراع اليسرى </string>
+    <string name = "arm12"> تمارين الذراع يمينًا </string>
+    <string name = "arm13"> تمرين الضغط على الجدار </string>
+    <string name = "arm14"> رافعات القفز </string>
+    <string name = "arm15"> الصنابير الخشبية </string>
+    <string name = "arm16"> اللكمات </string>
+    <string name = "arm17"> تمارين رفع الركبة </string>
+    <string name = "arm18"> الضغط المنخفض على الضغط </string>
+    <string name = "arm19"> تمرين دفع ذراع عريض </string>
+    <string name = "arm20"> تمرينات الدفع الماسية </string>
+    <string name = "arm21"> اللوح الخشبي </string>
+    <string name = "arm22"> التمساح الكتف </string>
+    <string name = "arm23"> تخطى الحبل </string>
+    <string name = "arm24"> الوصول البديل اللوحى </string>
+
+    <string name = "desc_alternater_heeltouch"> في البداية ، استلق على ظهرك وثني ساقيك. خذ دعم يديك على الجانب ، ارفع رأسك والمس كعبيك بدلاً من ذلك بيديك. </string>
+    <string name = "desc_arm_crunches"> استلقي على الأرض. ارفع يديك ببطء والمس ركبتيك. الآن ، التراجع عن نفسك ببطء ، كرر ذلك </string>
+    <string name = "desc_arm_crunches_left"> استلقِ على ظهرك وثني ساقيك. ضع يدك اليمنى خلف رأسك ويدك اليسرى خلف ركبتك اليسرى. الآن ارفع جسمك ثم عد إلى الوضع الأولي. كرر ذلك.  </string>
+    <string name = "desc_arm_crunches_right"> استلقِ على ظهرك وثني ساقيك. ضع يدك اليسرى خلف رأسك ويدك اليمنى خلف ركبتك اليمنى. الآن ارفع جسمك ثم عد إلى الوضع الأولي. كرر ذلك.  </string>
+    <string name = "desc_arm_scissors"> في البداية ، قف مع قدميك وكتفيك عريضًا. مد ذراعيك أمام جسمك عند مستوى الكتف ودع الذراعين يتداخلان مع بعضهما في شكل الحرف X. الآن انتشر ذراعيك. بدل الذراعين وكررها.  </string>
+    <string name = "desc_army_pushups"> مبدئيًا في وضع تمرين الضغط بقدميك بفارق 12 بوصة. اخفض جسمك حتى يصبح ذراعاك متوازيين مع الأرض ثم ارفع جسمك إلى الوضع الأولي. كرر ذلك.  </string>
+    <string name = "desc_basic_crunches"> استلق على الأرض. ارفع كتفك عن الأرض وابق في هذا الوضع لبضع ثوان. الآن ، التراجع عن نفسك ببطء. </string>
+    <string name = "desc_bench_dips"> ضع يديك على حافة المقعد ، والآن ، قم بخفض جسمك ببطء من خلال ثني مرفقيك ، وادفع نفسك ببطء مرة أخرى إلى وضع البداية.</string>
+    <string name = "desc_bicycle_crunches"> قف بقدميك بفارق بضع بوصات. ارفع ركبتك اليمنى باتجاه كوعك الأيسر. عد إلى الموضع الأولي. كرر نفس الشيء على الجانب الآخر. </string>
+    <string name = "desc_decline_pushups"> مبدئيًا في وضع تمرين الضغط. ارفع ساقيك على مقعد. الآن حرك جسمك صعودا وهبوطا. قم بتكريرها.  </string>
+    <string name = "desc_diamond_pushups"> كن على أصابع يديك ويديك من خلال رفع جسمك. اجعل يديك في شكل ماسي. الآن اخفض جسدك ثم ارفع جسدك. كرر ذلك  </string>
+    <string name = "desc_elbow_back"> في البداية ، قف مع عرض قدميك وكتفيك. الآن ضع كلتا يديك على خصرك مع أصابعك لأسفل والمرفقين إلى الخارج. اسحب مرفقيك للخلف ببطء ثم أعدهما إلى الوضع الأولي. كرر ذلك.  </string>
+    <string name = "desc_flutter_kicks"> ابدأ بالاستلقاء على ظهرك. أبق ذراعيك على الجانب وارفع ساقيك. دع الأرجل تكون مستقيمة قدر الإمكان. الآن ، ارفع ساقك اليمنى بسرعة وفي نفس الوقت ، اخفض ساقك اليسرى. ثم افعل نفس الشيء على الساق الأخرى. قم بتكريرها. </string>
+    <string name = "desc_high_knees"> قف بقدميك بفارق بضع بوصات. ارفع ركبتك اليمنى باتجاه كوعك الأيسر. عد إلى الموضع الأولي. كرر نفس الشيء على الجانب الآخر. </string>
+    <string name = "desc_incline_pushups"> ابدأ في وضعية رفع عادية ، مع رفع يديك على مقعد. ثم ادفع جسمك لأعلى ولأسفل باستخدام ذراعيك. كرر ذلك.  </string>
+    <string name = "desc_jumping_jacks"> في البداية ، قف بإبقاء قدميك بعرض بضع بوصات. الآن ، فقط قفز ومد ذراعيك فوق الرأس مع ثني ركبتيك قليلاً وقم بتمديد ساقيك ، والآن عد إلى وضع البداية كرر هذا. </string>
+
+    <string name = "desc_knee_pushups"> كن في وضع تمرين الضغط العادي. دع ركبتيك تلمس الأرض وترفع قدميك فوق الأرض. الآن ارفع جسمك لأعلى ثم اسقطه. قم بتكريرها. 10 </string>
+    <string name = "desc_leg_raise"> استلق على الأرض. ارفع ساقيك ببطء حتى يتم توجيه قدميك 90 درجة. الآن ، اخفضي رجليك ببطء وكرريها </string>
+    <string name = "desc_leg_up_crunches"> استلق على الأرض. ارفع ساقيك ببطء واجعل ركبتك قريبة من صدرك ، وكررها </string>
+    <string name = "desc_lunge"> ابدأ بالوقوف ، مع وجود أقدام قليلة متباعدة. ضع يديك على الورك. مدد ساقك اليمنى واسقط جسمك حتى يصبح فخذك الأيمن موازيًا للأرض. عد إلى الوضع الأولي وكرر نفس الشيء على الساق اليسرى. </string>>
+    <string name = "desc_plank"> كن على أصابع قدميك وساعديك مع جسمك بشكل مستقيم. ابق في هذا الوضع لأطول فترة ممكنة. </string>
+    <string name = "desc_plank_alternate_reach"> ابدأ في وضع لوح. كبديل ، مد كل ذراعيك إلى الأمام. دع جسمك يكون مستقيما. كررها.  </string>
+    <string name = "desc_plank_taps"> مبدئيًا في وضع اللوح الخشبي. المس الكتف الأيسر باستخدام يدك اليمنى والعودة إلى الوضع الأولي. افعل الشي ذاته على الجانب الآخر. كررها.  </string>
+    <string name = "desc_plank_with_leg_lift"> كن على أصابع قدميك وساعديك مع جسمك بشكل مستقيم. الآن ، اخفض ساقك اليسرى وارفع رجلك اليمنى. عد الآن إلى الوضع الأولي ، كرر هذا. </string>
+    <string name = "desc_punches"> في البداية ، قف مع قدميك وكتفيك عريضين ، وثني ركبتيك قليلاً. الآن ثني مرفقيك ولكم إلى الأمام بقبضاتك ، وبدلاً من ذلك بكلتا الذراعين. كرر ذلك. </string>
+    <string name = "desc_pushup_low_hold"> كن في وضع رفع الضغط العادي. انزل جسدك إلى أسفل حتى يصل من 1 إلى 2 بوصة فوق سطح الأرض. كن في هذا الوضع لبعض الوقت وتنفس بشكل طبيعي.  </string>
+    <string name = "desc_pushups"> مبدئيًا ، يكون وضع الوجه لأسفل على الأرض. مدد ذراعيك والمس الأرض ، ارفع نفسك بدفع الأرض بعيدًا عنك ، كرر هذا. </string>
+    <string name = "desc_shoulder_gators"> قف مع قدميك بعرض بضع بوصات. أبق يديك بالقرب من أذنيك مع مرفقيك على الجانب. أحضر مرفقيك إلى وسط جسمك ثم عد إلى الوضع الأولي. كرر ذلك.  </string>
+    <string name = "desc_skip_the_rope"> في البداية في وضع الوقوف. ثم اقفز كما لو كان لديك حبل تخطي في يدك. كرر ذلك.  </string>
+    <string name = "desc_squats"> قف ورجليك متباعدتين. مدد ذراعيك إلى الأمام واسقط الجسم حتى يصبح فخذيك موازيين للأرض. الآن عد إلى الموضع الأولي. قم بتكريرها. </string>
+    <string name = "desc_standing_biceps_stretch_left"> قف بذراعك اليسرى بالقرب من الحائط. الآن مد ذراعك الأيسر والمس الجدار. أدر جسمك قليلاً نحو اليمين.  </string>
+    <string name = "desc_standing_biceps_stretch_right"> قف بذراعك اليمنى بالقرب من الحائط. الآن مد ذراعك الأيمن والمس الجدار. أدر جسمك قليلاً نحو اليسار.  </string>
+    <string name = "desc_triceps_dips"> اجلس على كرسي. امسك الكرسي وحرك الورك بعيدًا عن الكرسي. الآن حرك جسمك لأعلى ولأسفل بأخذ دعم ذراعيك. كرر ذلك.  </string>
+    <string name = "desc_triceps_stretch_left"> ارفع ذراعك الأيسر ، ثم اثنيه وضعه على ظهرك. أمسك الكوع الأيسر باستخدام يدك اليمنى واسحبه. كن في هذا الوضع لبضع ثوان.  </string>
+    <string name = "desc_triceps_stretch_right"> ارفع ذراعك الأيمن وثنيها وضعها على ظهرك. أمسك الكوع الأيمن باستخدام يدك اليسرى واسحبه. كن في هذا الوضع لبضع ثوان.  </string>
+    <string name = "desc_v_crunches"> استلقي على الأرض. ارفع ساقيك مع إبقاء اليدين على بعد حوالي 45 درجة عن الأرض. الآن ، التراجع عن نفسك ببطء. </string>
+    <string name = "desc_vertical_leg_crunches"> استلق على الأرض. ارفع رأسك ببطء نحو ركبتيك وحاول أن تلمس يديك بأصابع قدميك الآن ، قم بالتراجع عن نفسك ببطء. </string>
+    <string name = "desc_wall_pushups"> في البداية ، قف بوصة أو اثنتين بعيدًا عن الحائط. مد ذراعيك ولمس الحائط. اتكأ وادفع على الحائط ، وذراعيك ثم أعود. كرر هذا.  </string>
+    <string name = "desc_wide_arm_pushups"> في البداية ، ركع على الأرض. أخفض جسمك وارفعه باستخدام ذراعيك. لتكن الأذرع عريضة على الأرض. كررها.  </string>
+    <string name = "jumping_jacks"> جاك القفز </string>
+    <string name = "arm_crunches"> تمارين الذراع </string>
+    <string name = "high_knees"> ركبة عالية </string>
+    <string name = "basic_crunches"> الجرش الأساسي </string>
+
+    <string name = "chest"> الذرية </string>
+    <string name = "chest1"> التصفيق </string>
+    <string name = "chest2"> الأيدي المرتفعة </string>
+    <string name = "chest3"> غريب الأطوار </string>
+    <string name = "chest4"> أقدام مرتفعة </string>
+    <string name = "chest5"> قبضة ضيقة </string>
+    <string name = "chest6"> بايك </string>
+    <string name = "chest7"> ذراع واحدة لليسار </string>
+    <string name = "chest8"> ذراع واحدة لليمين </string>
+    <string name = "chest9"> رجل واحدة متبقية </string>
+    <string name = "chest10"> رجل واحدة لليمين </string>
+    <string name = "chest11"> سبايدرمان </string>
+    <string name = "chest12"> القبضة القياسية </string>
+    <string name = "chest13"> قبضة عريضة </string>
+    <string name = "chest14"> بالقفز </string>
+    <string name = "atomic_desc"> استلقِ أولاً على الأرض ، ووجهك متقاربًا. ضع ذراعيك بشكل مستقيم ، مع عرض الكتفين ، وشد عضلات بطنك وحمل جسمك في وضع لوح. أثناء الحفاظ على جسم مستقيم ، اخفض نفسك حتى يصبح صدرك بوصة فوق الأرض ويزول المرفقان للخلف بمقدار 45 درجة تقريبًا. اجلب ركبتيك نحو مرفقيك ، وشعور بالانقباض في بطنك. مد قدميك ببطء إلى وضع البداية وحافظ على استقامة ذراعيك. كرر هذا.  </string>
+    <string name = "clap_desc"> استلقِ أولاً على الأرض ، ووجهك معًا بالقرب من قدميك. ضع ذراعيك بشكل مستقيم ، مع عرض الكتفين ، وشد عضلات بطنك وحمل جسمك في وضع لوح. أثناء الحفاظ على جسم مستقيم ، اخفض نفسك إلى أسفل حتى يصبح صدرك بوصة فوق الأرض ومرفقين يتراجعان بزاوية 45 درجة تقريبًا. ادفع نفسك بشكل علني ممدًا مرفقيك. عندما تكون يديك بعيدًا عن الأرض ، صفقهما معًا. أعد يديك إلى الأرض خارج عرض الكتفين. أنزل نفسك إلى وضع البداية. كرر هذا. </string>
+    <string name = "elevated_hands_desc"> استلقِ أولاً على الأرض ، ووجهك متقاربًا. ضع يديك على سطح مرتفع - مثل المقعد. ضع ذراعيك بشكل مستقيم ، مع عرض الكتفين ، وشد عضلات بطنك وحمل جسمك في وضع لوح. مع الحفاظ على الجسم المستقيم ، اخفض نفسك حتى يصبح صدرك بوصة فوق الأرض ومرفقين يتراجعان بزاوية 45 درجة. لا تدع الوركين يتدلى في أي وقت. الآن دفع جذعك بعيدا عن الأرض حتى ذراعيك مستقيمة. كرر هذا. </string>
+    <string name = "eccentric_desc"> استلقِ أولاً على الأرض ، ووجهاً قدمًا متقاربة. ضع ذراعيك بشكل مستقيم ، مع عرض الكتفين ، وشد عضلات بطنك وحمل جسمك في وضع لوح. أثناء الحفاظ على جسم مستقيم ، اخفض نفسك حتى يصبح صدرك بوصة فوق الأرض ويزول المرفقان للخلف بمقدار 45 درجة تقريبًا. ادفع نفسك الآن باستخدام ركبتيك ويديك. كرر هذا. </string>
+    <string name = "feet_elevated_desc"> استلقِ أولًا على الأرض ، ووجهك متقاربًا. ضع يديك على بعد حوالي 36 بوصة عن بعضها البعض. ضع أصابعك فوق مقعد مسطح. سيسمح ذلك برفع جسمك. ضع ذراعيك بشكل مستقيم ، وشد عضلات بطنك وحمل جسمك في وضع لوح. أثناء الحفاظ على جسم مستقيم ، اخفض نفسك حتى يصبح صدرك بوصة فوق الأرض ويزول المرفقان للخلف بمقدار 45 درجة تقريبًا. الآن دفع جذعك بعيدا عن الأرض حتى ذراعيك مستقيمة. كرر هذا. </string>
+    <string name = "narrow_grip_desc"> استلقِ أولاً على الأرض ، ووجهك متقاربًا. ضع يديك بالقرب من عرض الكتفين للحصول على وضع قريب ، وشد عضلات بطنك وأمسِك جسمك في وضع خشبي. أثناء الحفاظ على جسم مستقيم ، اخفض نفسك حتى يصبح صدرك بوصة فوق الأرض ويزول المرفقان للخلف بمقدار 45 درجة تقريبًا. الآن دفع جذعك بعيدا عن الأرض حتى ذراعيك مستقيمة. كرر هذا. </string>
+    <string name = "pike_desc"> استلقِ أولاً على الأرض ، ووجّه قدمك متقاربًا. ضع ذراعيك بشكل مستقيم ، مع عرض الكتفين. الآن ارفع الوركين بحيث يشكل جسمك رأساً على عقب V. يجب أن تبقى ساقيك وذراعيك مستقيمتين قدر الإمكان. اثنِ كوعيك حتى تصبح ذراعاك بزاوية 90 درجة ، وقرب رأسك من الأرض. الآن ادفع نفسك ببطء للأعلى حتى تصبح ذراعيك مستقيمة. كرر هذا. </string>
+
+    <string name = "single_arm_left_desc"> استلقِ أولاً على الأرض ، ووجهك لأسفل مع جعل قدميك قريبة من بعضهما البعض. افرد قدميك على نطاق أوسع من عرض الكتفين. ضع يدك اليسرى خلف فخذك. ضع يدك اليمنى بشكل مستقيم مع عرض الكتفين وشد عضلات بطنك وحمل جسمك في وضع لوح. أثناء الحفاظ على جسم مستقيم ، اخفض نفسك ببطء إلى أسفل حتى يصبح صدرك بوصة فوق الأرض ومرفقين يتراجعان بزاوية 45 درجة تقريبًا. الآن دفع جذعك بعيدا عن الأرض حتى ذراعيك مستقيمة. كرر هذا. </string>
+    <string name = "single_arm_right_desc"> استلقِ أولاً على الأرض ، ووجهك لأسفل مع جعل قدميك قريبة من بعضهما البعض. افرد قدميك على نطاق أوسع من عرض الكتفين. ضع يدك اليمنى خلف فخذك. ضع يدك اليسرى بشكل مستقيم مع عرض الكتفين وشد عضلات بطنك وحمل جسمك في وضع خشبي. أثناء الحفاظ على جسم مستقيم ، اخفض نفسك ببطء إلى أسفل حتى يصبح صدرك بوصة فوق الأرض ومرفقين يتراجعان بزاوية 45 درجة تقريبًا. الآن دفع جذعك بعيدا عن الأرض حتى ذراعيك مستقيمة. كرر هذا. </string>
+    <string name = "single_leg_left_desc"> استلقِ أولاً على الأرض ، ارفع ساقك اليسرى عن الأرض ، ووجهك معًا بالقرب من قدميك. ضع ذراعيك بشكل مستقيم ، مع عرض الكتفين ، وشد عضلات بطنك وحمل جسمك في وضع لوح. أثناء الحفاظ على جسم مستقيم ، اخفض نفسك حتى يصبح صدرك بوصة فوق الأرض ويزول المرفقان للخلف بمقدار 45 درجة تقريبًا. الآن ادفع جذعك بعيدًا عن الأرض حتى تصبح ذراعيك مستقيمة ثم أنزل ساقك اليسرى إلى الأرض. كرر هذا. </string>
+    <string name = "single_leg_right_desc"> استلقِ أولاً على الأرض ، ارفع ساقك اليمنى عن الأرض ، ووجهك معًا بالقرب من بعضها. ضع ذراعيك بشكل مستقيم ، مع عرض الكتفين ، وشد عضلات بطنك وحمل جسمك في وضع لوح. أثناء الحفاظ على جسم مستقيم ، اخفض نفسك حتى يصبح صدرك بوصة فوق الأرض ويزول المرفقان للخلف بمقدار 45 درجة تقريبًا. الآن ادفع جذعك بعيدًا عن الأرض حتى تصبح ذراعيك مستقيمة ثم أنزل ساقك اليمنى إلى الأرض. كرر هذا. </string>
+    <string name = "spiderman_desc"> استلقِ أولاً على الأرض ، ووجهك متقاربًا. ضع ذراعيك بشكل مستقيم ، مع عرض الكتفين ، وشد عضلات بطنك وحمل جسمك في وضع لوح. أثناء الحفاظ على جسم مستقيم ، اخفض نفسك حتى يصبح صدرك بوصة فوق الأرض ويزول المرفقان للخلف بمقدار 45 درجة تقريبًا. عندما تنزل إلى الأسفل ، ارفع ساقك اليمنى لأعلى وعلى الجانب. المس الركبة إلى الكوع. الآن ادفع جذعك بعيدًا عن الأرض ، وأعد الساق إلى مكانها الأصلي واترك ذراعيك مستقيمتين. كرر نفس الشيء مع الساق الأخرى </string>
+    <string name = "standard_desc"> استلقِ أولاً على الأرض ، ووجّه قدمك متقاربًا. ضع ذراعيك بشكل مستقيم ، مع عرض الكتفين ، وشد عضلات بطنك وحمل جسمك في وضع لوح. أثناء الحفاظ على جسم مستقيم ، اخفض نفسك حتى يصبح صدرك بوصة فوق الأرض ويزول المرفقان للخلف بمقدار 45 درجة تقريبًا. الآن دفع جذعك بعيدا عن الأرض حتى ذراعيك مستقيمة. كرر هذا. </string>
+    <string name = "wide_grip_desc"> استلقِ أولاً على الأرض ، مع وضع اليدين على اتساعهما ، ووجهك معًا بالقرب من قدميك. ضع ذراعيك بشكل مستقيم ، مع عرض الكتفين ، وشد عضلات بطنك وحمل جسمك في وضع لوح. أثناء الحفاظ على جسم مستقيم ، اخفض نفسك حتى يصبح صدرك بوصة فوق الأرض ويزول المرفقان للخلف بمقدار 45 درجة تقريبًا. الآن دفع جذعك بعيدا عن الأرض حتى ذراعيك مستقيمة. كرر هذا. </string>
+    <string name = "with_jump_desc"> استلقِ أولاً على الأرض ، ووجهاً لأقدامك متقاربة. ضع ذراعيك بشكل مستقيم ، مع عرض الكتفين ، وشد عضلات بطنك وحمل جسمك في وضع لوح. أثناء الحفاظ على جسم مستقيم ، اخفض نفسك حتى يصبح صدرك بوصة فوق الأرض ويزول المرفقان للخلف بمقدار 45 درجة تقريبًا. الآن دفع جذعك بعيدا عن الأرض حتى ذراعيك مستقيمة. الآن اقفز قدميك معًا أثناء تصويب ذراعيك للعودة. كرر هذا. </string>
+    <string name = "lose"> تمارين الساق الرأسية </string>
+    <string name = "lose1"> v يطحن </string>
+    <string name = "lose2"> اندفاع </string>
+    <string name = "lose3"> يتقرفص </string>
+    <string name = "lose4"> دفع لأعلى </string>
+    <string name = "lose5"> تمارين الساقين </string>
+    <string name = "lose6"> قفز القفز </string>
+    <string name = "lose7"> لوح خشبي مع رفع الساق </string>
+    <string name = "lose8"> ركبة عالية </string>
+    <string name = "lose9"> الجرش الأساسي </string>
+    <string name = "lose10"> heeltouch البديل. </string>
+    <string name = "lose11"> تمارين الدراجات </string>
+    <string name = "lose12"> ركلات رفرفة </string>
+    <string name = "lose13"> تمارين الذراع </string>
+    <string name = "lose14"> تنخفض مقاعد البدلاء </string>
+    <string name = "lose15"> رفع الساق </string>
+
+
+
+
+</resources>

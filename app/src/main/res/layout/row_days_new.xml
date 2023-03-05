@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardViewInRecycler"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginBottom="5dp"
+    app:cardElevation="20dp"
+    app:cardCornerRadius="10dp"
+    android:backgroundTint="#39424A"
+    android:foreground="?android:attr/selectableItemBackground">
+
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/rel_image"
+            android:layout_marginTop="@dimen/dimen_8dp"
+            android:layout_width="88dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginStart="10dp"
+            android:background="@drawable/a4_grad"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_height="88dp">
+
+        <ImageView
+            android:id="@+id/animation"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_centerInParent="true"
+            />
+        </RelativeLayout>
+
+
+        <TextView
+            android:id="@+id/exerciseName"
+            android:layout_toRightOf="@+id/rel_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/overlock_bold"
+            android:paddingEnd="5dp"
+            android:text="testggg"
+            android:maxLines="2"
+            android:layout_toLeftOf="@+id/sec_rel_1"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:layout_centerInParent="true"
+            android:shadowColor="@color/black"
+            android:textStyle="bold"
+            android:shadowDx="-2"
+            android:shadowDy="-2"
+            android:shadowRadius="1" />
+
+        <RelativeLayout
+            android:id="@+id/sec_rel_1"
+            android:layout_width="50dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginStart="5dp"
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/sec_grad"
+            app:layout_constraintBottom_toTopOf="@+id/line_image"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/exerciseName"
+            android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/rotation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/overlock_bold"
+            android:text="x20"
+            android:layout_centerInParent="true"
+            android:textSize="16sp"
+            />
+        </RelativeLayout>
+        <ImageView
+            android:id="@+id/line_image"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginEnd="@dimen/dimen_16dp"
+            android:contentDescription="@string/image"
+            android:scaleType="fitXY"
+            android:src="@drawable/dividing_line"
+            android:visibility="gone"
+            />
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

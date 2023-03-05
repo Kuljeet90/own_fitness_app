@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bg1">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#90000000" />
+
+    <RelativeLayout
+        android:id="@+id/first_rl"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+
+        <RelativeLayout
+            android:background="@color/women_color"
+            android:id="@+id/rel1"
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:fontFamily="@font/overlock_bold"
+                android:text="@string/app_name1"
+
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="20dp" />
+
+
+
+
+        </RelativeLayout>
+
+
+
+
+    </RelativeLayout>
+
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/first_rl"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <RelativeLayout
+                android:id="@+id/r1"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/buttockz_banner"
+                android:layout_marginRight="20dp">
+
+                <ImageView
+                    android:id="@+id/butt_workout"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                     />
+
+
+                <TextView
+                    android:id="@+id/t1"
+                    android:layout_above="@+id/t11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:fontFamily="@font/baner_text"
+                    android:text="@string/butocks"
+                    android:textColor="@color/white"
+                    android:textSize="25dp" />
+
+                <TextView
+                    android:id="@+id/t11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginBottom="10dp"
+                    android:fontFamily="@font/gothic"
+                    android:text="@string/workout"
+                    android:textColor="@color/white"
+                    android:textSize="20dp" />
+
+
+            </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/r2"
+            android:layout_below="@+id/r1"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="@drawable/weightloss_banner"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp">
+
+            <ImageView
+                android:id="@+id/weightloss"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                />
+
+            <TextView
+                android:layout_above="@+id/t22"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:fontFamily="@font/baner_text"
+                android:text="@string/weight"
+                android:textColor="@color/white"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/t22"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="15dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="@font/gothic"
+                android:text="@string/workout"
+                android:textColor="@color/white"
+                android:textSize="20dp" />
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/r3"
+            android:layout_below="@+id/r2"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="@drawable/abs_banner"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp">
+
+        <ImageView
+                android:id="@+id/abs_workout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:adjustViewBounds="true"
+              />
+
+            <TextView
+                android:layout_above="@+id/t33"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:fontFamily="@font/baner_text"
+                android:text="@string/Abs"
+                android:textColor="@color/white"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/t33"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="15dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="@font/gothic"
+                android:text="@string/workout"
+                android:textColor="@color/white"
+                android:textSize="20dp" />
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_below="@+id/r3"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="@drawable/fatburn_banner"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="20dp">
+
+        <ImageView
+                android:id="@+id/fatburn_workout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                 />
+            <TextView
+                android:layout_above="@+id/t44"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:fontFamily="@font/baner_text"
+                android:text="@string/Fatbrn"
+                android:textColor="@color/white"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/t44"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="15dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="@font/gothic"
+                android:text="@string/workout"
+                android:textColor="@color/white"
+                android:textSize="20dp" />
+        </RelativeLayout>
+        </RelativeLayout>
+
+    </ScrollView>
+
+
+</RelativeLayout>

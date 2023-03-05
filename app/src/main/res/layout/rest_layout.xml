@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/restScreen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:visibility="gone">
+
+    <RelativeLayout
+        android:id="@+id/t1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        >
+
+
+        <TextView
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:id="@+id/nextExerciseNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:fontFamily="@font/overlock_bold"
+            android:text="NEXT 6/19"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            />
+
+
+        <TextView
+            android:id="@+id/skipRestTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="20dp"
+            android:background="?attr/selectableItemBackground"
+            android:fontFamily="@font/overlock_bold"
+            android:textStyle="bold"
+            android:text="@string/skip"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/restRelativelayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/t1"
+        android:layout_marginTop="20dp"
+        android:background="@color/black">
+
+
+        <RelativeLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+
+                app:cardElevation="@dimen/dimen_4dp">
+
+                <RelativeLayout
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+
+                    <ProgressBar
+                        android:id="@+id/rest_timer"
+                        style="@style/Base.Widget.AppCompat.ProgressBar.Horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimen176dp"
+                        android:background="@color/black"
+                        android:indeterminate="false"
+                        android:progressDrawable="@drawable/shape_startex"
+
+                        />
+
+                    <ImageView
+                        android:id="@+id/nextExercisAnimation"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_centerInParent="true"
+                        android:layout_marginTop="@dimen/dimen_24dp"
+                        />
+
+
+
+
+
+
+
+                </RelativeLayout>
+            </androidx.cardview.widget.CardView>
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/y1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/restRelativelayout">
+
+        <TextView
+            android:id="@+id/rest_counting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:fontFamily="@font/overlock_bold"
+            android:text="20"
+            android:textSize="34sp" />
+
+
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_below="@+id/y1"
+        android:layout_above="@+id/f2_adplaceholderr1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:layout_toStartOf="@+id/nextExerciseCycles"
+            android:id="@+id/nextExerciseName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="20dp"
+            android:singleLine="true"
+            android:fontFamily="@font/overlock_bold"
+            android:text="DRY LAND STRIM"
+            android:textAlignment="textStart"
+            android:textSize="23sp" />
+
+        <TextView
+            android:id="@+id/nextExerciseCycles"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true"
+            android:fontFamily="@font/overlock_bold"
+            android:text="x12"
+            android:layout_toLeftOf="@+id/l1l1"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:layout_marginRight="20dp"
+            android:textColor="@color/white"
+            android:textSize="20dp" />
+
+        <RelativeLayout
+
+            android:id="@+id/l1l1"
+            android:layout_alignParentRight="true"
+            android:layout_width="50dp"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="15dp"
+            android:layout_height="50dp">
+
+            <ImageView
+                android:id="@+id/pauseRestTime"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:contentDescription="@string/image"
+                android:background="@mipmap/pause"
+                android:layout_centerInParent="true"
+
+                android:layout_alignParentRight="true"/>
+
+            <ImageView
+                android:id="@+id/resumeRestTime"
+                android:layout_width="40dp"
+                android:layout_height="35dp"
+                android:contentDescription="@string/image"
+                android:background="@mipmap/right"
+
+                android:visibility="gone"
+                android:layout_centerInParent="true"
+
+                android:layout_alignParentRight="true"/>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+
+
+    <FrameLayout
+        android:id="@+id/f2_adplaceholderr1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp" />
+
+
+
+</RelativeLayout>

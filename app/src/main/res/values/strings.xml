@@ -1,0 +1,587 @@
+<resources>
+    <string name="app_name1" translatable="false">fitness app</string>
+    <string name="app_name" translatable="false">fitness app</string>
+
+
+    <string name="ADMOB_Unit_ID" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="AdMob_Full_ID" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="AdMob_Native_ID" translatable="false">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="AdMob_Baner_ID" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+
+
+
+    <string name="privacy" translatable="false">Privacy Policy</string>
+
+
+
+    <string name="image" translatable="false">Image</string>
+
+    <string name="abs_title">Abs workout</string>
+
+    <string name="butocks1">Arm</string>
+    <string name="buttocks_title1">Arm workout</string>
+    <string name="Fatbrn1">Chest</string>
+    <string name="fatburn_title1">Chest workout</string>
+
+    <string name="noti1">Its Time to your Exercise Time..</string>
+    <string name="noti2">Female Workout</string>
+    <string name="noti3">Hey! its workout time</string>
+    <string name="noti4">Lets Start Workout</string>
+    <string name="butocks">Buttocks</string>
+    <string name="weight">Weight Lose</string>
+    <string name="Abs">Abs</string>
+    <string name="Fatbrn">Fat Burn</string>
+    <string name="workout">Workout</string>
+    <string name="save">Save</string>
+
+    <string name="ABDOMINALCRUNCHES">abdominal crunches</string>
+    <string name="ABDOMINALCRUNCHESDESCRIPTION">Lie down on your back and bend your knees, Now, lift your head and shoulder, by stretching your hand, Stay for some seconds and then come back to the initial position,</string>
+    <string name="BIRDDOGDESCRIPTION">Initially be down on your hands and knees, Now, stretch your right leg and left hand simultaneously, Be in this position for few seconds and come back to the initial position, Repeat it for the other side,</string>
+    <string name="BRIDGE">bridge</string>
+    <string name="BRIDGEDESCRIPTION">Start by lying on the floor, then raise your hips with your back straight, Be in this position for as long as possible,</string>
+    <string name="BIRDDOG">bird dog</string>
+    <string name="CALFSTRETCHLEFT">calf stretch left</string>
+    <string name="CALFSTRETCHLEFTDESCRIPTION">Stand holding a wall, With your left leg fully stretched and right leg forward, exert force onto the wall with your arms, Be in this pose for some seconds,</string>
+    <string name="CALFSTRETCHRIGHT">calf stretch right</string>
+    <string name="CALFSTRETCHRIGHTDESCRIPTION">Stand holding a wall, With your right leg fully stretched and left leg forward, exert force onto the wall with your arms, Be in this pose for some seconds,</string>
+    <string name="CATCOWPOSE">cat cow pose</string>
+    <string name="CATCOWPOSEDESCRIPTION">Initially be down on your hands and knees, Now, inhale by stretching your stomach down and exhale by stretching your back upwards, Repeat it,</string>
+    <string name="CHILDPOSE">child pose</string>
+    <string name="CHILDPOSEDESCRIPTION">Initially be in table pose, Now exhale and lower your hips towards the heels, Let the forehead touch the ground and arms stretched backwards towards your feet, Be in this position for sometime,</string>
+    <string name="COBRASTRETCH">cobra stretch</string>
+    <string name="COBRASTRETCHDESCRIPTION">Lie down with your head facing the ground, Keep your hands at the side of your shoulders, Now, raise your chest with your arms, Be in this position for some time,</string>
+    <string name="LEFTQUADSTRETCHWITHWALL">left quad stretch with wall</string>
+    <string name="LEFTQUADSTRETCHWITHWALLDESCRIPTION">Start in a standing pose, Touch a wall with your right hand and hold the ankle of your left leg on bending it, Be in this position,</string>
+    <string name="LYINGBUTTERFLYSTRETCH">lying butterfly stretch</string>
+    <string name="LYINGBUTTERFLYSTRETCHDESCRIPTION">Lie down on your back, Bend your knees ,with the soles of the feet, touching each other, Stay in this position,</string>
+    <string name="PLIESQUATS">plie squats</string>
+    <string name="REVERSECRUNCHES">reverse crunches</string>
+    <string name="REVERSECRUNCHESDESCRIPTION">Lie down on your back and bend your knees, Now, bring your knees towards your head, by keeping your hands on the side of your body,</string>
+    <string name="RIGHTQUADSTRETCHWITHWALL">right quad stretch with wall</string>
+    <string name="RIGHTQUADSTRETCHWITHWALLDESCRIPTION">Start in a standing pose, Touch a wall with your left hand and hold the ankle of your right leg on bending it, Be in this position,</string>
+    <string name="SHOULDERSTRETCH">shoulder stretch</string>
+    <string name="SHOULDERSTRETCHDESCRIPTION">Stretch your left arm, across your body, Hold the elbow of your left arm, using your right arm and pull it towards your chest, Repeat the exercise on the other side,</string>
+    <string name="SQUATS">squats</string>
+    <string name="TRICEPSSTRETCHLEFT">triceps stretch left</string>
+    <string name="TRICEPSSTRETCHLEFTDESCRIPTION">Lift your left arm, bend it and place it on your back, Hold the left elbow using your right hand and pull it, Be in this position for some seconds,</string>
+    <string name="TRICEPSSTRETCHRIGHT">triceps stretch right</string>
+    <string name="TRICEPSSTRETCHRIGHTDESCRIPTION">Lift your right arm, bend it and place it on your back, Hold the right elbow using your left hand and pull it, Be in this position for some seconds,</string>
+    <string name="fb_banner" translatable="false">1234567891011_1234567891011</string>
+    <string name="fb_full" translatable="false">1234567891011_1234567891011</string>
+    <string name="fb_nativ" translatable="false">1234567891011_1234567891011</string>
+    <string name="advbellyfattip1">High intake of sugar is bad for health,sugary drinks like carbonated drinks,fruit juice etc,are high in sugar which means they are high in calories,avoid sugary drinks if you want to lose weight.</string>
+    <string name="advbellyfattip10">Make sure you follow a healthy diet,a healthy diet for weight loss includes fruits, vegetables, healthy fats, protein rich foods and fibrous foods,a healthy diet contains foods which are low in calories and helps in weight loss.</string>
+    <string name="advbellyfattip10title">Eat healthy</string>
+    <string name="advbellyfattip11">Black coffee contains caffeine which increases your metabolism and makes you energetic,consumption of black coffee helps to burn calories,do not add sugar or any high-calorie sweeteners to your coffee,drinking black coffee regularly results in weight loss.</string>
+    <string name="advbellyfattip11title">Consume black coffee</string>
+    <string name="advbellyfattip12">Eggs are high in protein and low in calories,eating whole eggs for breakfast makes you full and reduces cravings for more food which helps in weight loss.</string>
+    <string name="advbellyfattip12title">Eat whole eggs</string>
+    <string name="advbellyfattip13">Drinking water helps in weight loss,drinking sufficient quantity of water boosts metabolism and helps to burn calories in your body,the quantity of water intake per day for adult male is 4 liters and for adult female is 3 liters.</string>
+    <string name="advbellyfattip13title">Drink adequate quantity of water</string>
+    <string name="advbellyfattip14">Green tea contains caffeine and a flavonoid called catechin,catechin helps to break down excess fat in your body,the Caffeine present in green tea boosts your metabolism and helps to burn calories which results in weight loss.</string>
+    <string name="advbellyfattip14title">Drink green tea</string>
+    <string name="advbellyfattip15">Eat around 4 to 5 dates as a snack,dates are rich in fiber and low in calories,dates makes you feel full and this reduces cravings for more food which results in weight loss.</string>
+    <string name="advbellyfattip15title">Eat dates as a snack</string>
+    <string name="advbellyfattip16">Eat fiber rich fruits like Oranges, Strawberries, Banana etc,during brunch,fruits rich in fiber makes you feel full which reduces cravings for more food and this results in weight loss.</string>
+    <string name="advbellyfattip16title">Consume fruits during brunch</string>
+    <string name="advbellyfattip17">Make sure you eat carbohydrates in their original form,consume less refined carbohydrates like red rice, whole wheat bread, whole wheat pasta and oats,less refined carbohydrates are rich in fiber and makes you feel full which reduces cravings for more food and this helps in weight loss.</string>
+    <string name="advbellyfattip17title">Consume carbohydrates in their original form</string>
+    <string name="advbellyfattip18">Vegetable salads are low in calories and rich in fiber which helps you to lose weight,prepare vegetable salads using beans, olive oil, lemon juice, vinegar, pepper and leafy greens like lettuce, spinach, kale etc.</string>
+    <string name="advbellyfattip18title">Include vegetable salads in your diet</string>
+    <string name="advbellyfattip19">High stress levels causes weight gain,feeling stressed results in cravings for junk foods like sweet, pizza, burgers, doughnuts etc,perform activities like yoga to keep your stress under control.</string>
+    <string name="advbellyfattip19title">Manage stress to lose weight</string>
+    <string name="advbellyfattip1title">Avoid sugary drinks</string>
+    <string name="advbellyfattip2">Performing cardio exercises like running, cycling, swimming, jumping rope etc,helps you to burn calories,cardio exercises also reduces belly fat in your body,Belly fat decreases your metabolism and causes weight gain,do cardio exercises regularly to lose weight.</string>
+    <string name="advbellyfattip20">Cook food using healthy oils like olive oil, avocado oil and sesame oil,these oils are low in calories unlike other refined oils and helps to lose weight,make sure that you use only a small quantity of these oils while cooking.</string>
+    <string name="advbellyfattip20title">Choose healthy oils</string>
+    <string name="advbellyfattip21">Processed foods are high in calories and causes weight gain,avoid processed foods like cheese, canned fruit, canned meat, jams, ketchup etc., if you want to lose weight.</string>
+    <string name="advbellyfattip21title">Avoid processed foods</string>
+    <string name="advbellyfattip22">Any food fried using refined oils are high in calories,make sure you consume steam cooked or grilled foods which are low in calories if you want to lose weight.</string>
+    <string name="advbellyfattip22title">Do not eat fried foods</string>
+    <string name="advbellyfattip23">Eat snacks which are rich in fiber and proteins,also make sure that the snacks are low in calories,some of the healthy snacks include Greek yogurt, nuts, peanut butter, whole wheat bread, apple slices etc.</string>
+    <string name="advbellyfattip23title">Eat healthy snacks</string>
+    <string name="advbellyfattip24">Dark chocolate can be used as a snack,dark chocolate contains healthy fats which makes you full for a long time and reduces cravings resulting in weight loss.</string>
+    <string name="advbellyfattip24title">Eat dark chocolate</string>
+    <string name="advbellyfattip25">Chewing food slowly during a meal reduces the calorie intake and also increases the hormones related to weight loss,also make sure that you chew your food thoroughly while eating if you want to lose weight.</string>
+    <string name="advbellyfattip25title">Chew slowly while eating</string>
+    <string name="advbellyfattip26">Adding spices to food helps to burn calories and boost your metabolism,some of the spices which helps in weight loss includes Turmeric, Cinnamon, Cumin seeds, Ginger, Garlic and black pepper.</string>
+    <string name="advbellyfattip26title">Spices for weight loss</string>
+    <string name="advbellyfattip27">Flax seeds are rich in proteins and fiber,flax seeds boosts metabolism and makes you feel full for a long time which helps to reduce cravings for food and helps in weight loss.</string>
+    <string name="advbellyfattip27title">Consume flax seeds</string>
+    <string name="advbellyfattip28">Doing yoga regularly helps us to lose weight,performing yoga helps to burn calories and also improves your metabolism,some of the yoga postures for weight loss are bow pose, child’s pose, triangle pose, twisted chair pose, Surya namaskara etc.</string>
+    <string name="advbellyfattip28title">Yoga for weight loss</string>
+    <string name="advbellyfattip29">It is required to know about your calorie intake every day,use a calorie counter to calculate your calorie intake,your calorie intake depends on several factors like gender, age, weight, height, activities etc,on an average a woman needs 2000 calories per day to maintain the existing weight and about 1500 calories per day to lose one pound in a week,on an average a man needs 2500 calories per day to maintain the existing weight and about 2000 calories per day to lose one pound in a week.</string>
+    <string name="advbellyfattip29title">Keep track on the calorie count</string>
+    <string name="advbellyfattip2title">Do cardio exercises</string>
+    <string name="advbellyfattip3">Junk foods are high in sugar,calories and unhealthy fats which causes weight gain,avoid junk foods like pizza, hot dog, French fries, hamburger etc. for weight loss.</string>
+    <string name="advbellyfattip30">Exercising with your friends is not just fun but also motivates you to lose weight,a study on obesity found that people who are overweight tend to lose weight if they are in the company of fit friends.</string>
+    <string name="advbellyfattip30title">Exercise with your friends</string>
+    <string name="advbellyfattip3title">Do not consume junk foods</string>
+    <string name="advbellyfattip4">Walking helps to burn calories,make sure you walk regularly at a brisk pace if you want to lose weight,walking also helps you to lose belly fat which results in weight loss.</string>
+    <string name="advbellyfattip4title">Walk regularly to lose weight</string>
+    <string name="advbellyfattip5">There are foods which are high in added sugar,these foods are high in calories and results in weight gain,avoid foods like candy, pastries, doughnuts, desserts etc,if you want to lose weight.</string>
+    <string name="advbellyfattip5title">Avoid foods with added sugar</string>
+    <string name="advbellyfattip6">Foods which are high in protein boosts your metabolism and helps to burn calories in your body,protein rich foods makes you full and reduces cravings for food which helps in weight loss.</string>
+    <string name="advbellyfattip6title">Consume foods rich in protein</string>
+    <string name="advbellyfattip7">It is required to sleep for at least 7 to 8 hours a day,sleep deprivation leads to cravings for junk food which causes weight gain,make sure you get adequate sleep if you want to lose weight.</string>
+    <string name="advbellyfattip7title">Get sufficient sleep</string>
+    <string name="advbellyfattip8">Consume foods rich in fiber like fruits, vegetables, beans, legumes, grains and nuts,fibrous foods are low in calories and also makes you full which helps in weight loss.</string>
+    <string name="advbellyfattip8title">Eat foods rich in fiber</string>
+    <string name="advbellyfattip9">Reduce the intake of foods containing carbohydrates in your diet,consumption of more carbohydrates results in weight gain as they are stored as fat in your body.</string>
+    <string name="advbellyfattip9title">Reduce carbohydrates in your diet</string>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+
+
+    <string name="bent_leg_twist">bent leg twist</string>
+    <string name="bent_leg_twist_desc">Lie down on your back, with your arms stretched to the side, Raise your legs and bend your knees at 90 degree angle, Now twist your knees to the left, Stay in this position for 1-2 minutes, Return to the initial position and do the same on the right side,\10\10</string>
+    <string name="bicycle_crunches">bicycle crunches</string>
+    <string name="bicycle_crunches_desc">Lie down by keeping your hand, on the back of your head, Lift your right knee and stretch your left elbow towards it, Repeat the same for the other side,\10\10</string>
+    <string name="bottom_sheet_behavior" translatable="false">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="burpees">Burpees</string>
+    <string name="burpees_desc">Stand with your feet shoulder-width apart, weight in your heels, and your arms at your sides, Push your hips back, bend your knees, and lower your body into a squat, Place your hands on the floor directly in front of, and just inside, your feet, Shift your weight onto them, Jump your feet back to softly land on the balls of your feet in a plank position, Your body should form a straight line from your head to heels, Be careful not to let your back sag or you butt stick up in the air, as both can keep you from effectively working your core, Jump your feet back so that they land just outside of your hands, Reach your arms over head and explosively jump up into the air, Land and immediately lower back into a squat for your next rep,</string>
+    <string name="buttocks_title">Buttocks workout</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="check_internet_str">Please Check Internet Connection..</string>
+
+    <string name="clapping_crunches">clapping crunches</string>
+    <string name="clapping_crunches_desc">Lie down on the ground, Raise your upper body and bend your knees, Now, clap under the knees, by lifting the legs alternatively,\10\10</string>
+
+    <string name="confirm">Confirm!!</string>
+
+    <string name="countdown_time">Countdown time</string>
+    <string name="counter_time_key">counter_time</string>
+    <string name="cross_arm_crunches">cross arm crunches</string>
+    <string name="cross_arm_crunches_desc">Lie down by bending your knees, Keep your arms crossed on your chest, Raise your upper body and return to the initial position, Repeat it,\10\10</string>
+    <string name="crunches">Crunches</string>
+    <string name="crunches_desc">Lie down on the ground,Place your hands behind your head,curl up and forward so that your head, neck, and shoulder blades lift off the floor, Now,low backdown yourself slowly,Repeat it,</string>
+    <string name="cycles_text">cycles</string>
+    <string name="days">Days</string>
+    <string name="dead_bug">dead bug</string>
+    <string name="dead_bug_desc">Start by lying with your back on the ground, Raise your knees and make it perpendicuar to the ground, Stretch your arms, pointing towards the ceiling, Now, stretch your right arm towards your head and lower your left leg, Return back to the starting position, Repeat it on the other side,\10\10</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+
+    <string name="desc_adductor_strect_in_standing">Initially, keep your feet, few inches apart with your hands on your hip, Now, stretch your body to the left, by bending your left leg, Be in this position for some time, return to the original position, Repeat the same for the right side.\10\10</string>
+    <string name="desc_bicycle_crunches">Lie down by keeping your hand, on the back of your head, Lift your right knee and stretch your left elbow towards it, Repeat the same for the other side,\10\10</string>
+    <string name="desc_butt_bridge">Lie on your back with your hands by your sides, your knees bent and feet flat on the floor, Raise your hips up to create a straight line from your knees to shoulders, If your hips sag or drop, lower yourself back on the floor,</string>
+    <string name="desc_clapping_crunches">Lie down on the ground, Raise your upper body and bend your knees, Now, clap under the knees, by lifting the legs alternatively,\10\10</string>
+    <string name="desc_clapsoverhead">Initially, stand by keeping your feet, few inches wide, Now, just lift your arms and clap on top of your head, Repeat this,\10\10</string>
+    <string name="desc_donkeykicksleft">Initially be down on your hands and knees, Now lift the left leg with the knee bend and the leg pointing towards the ceiling, Stretch the leg and return back to the initial position, Repeat it,</string>
+    <string name="desc_donkeykicksright">Initially be down on your hands and knees, Now lift the right leg with the knee bend and the leg pointing towards the ceiling, Stretch the leg and return back to the initial position, Repeat it,\10\10</string>
+    <string name="desc_fire_hydrant_left">Initially be down on your hands and knees, Now, bend your left knee and raise your left leg to the side, untill it is in the same level as your hip,\10\10</string>
+    <string name="desc_fire_hydrant_right">Initially be down on your hands and knees, Now, bend your right knee and raise your right leg to the side, untill it is in the same level as your hip,\10\10</string>
+    <string name="desc_flutter_kicks">Start by lying on your back, Keep your arms on the side and lift your legs, Let the legs be as straight as possible, Now, quickly raise your right leg and at the same time, lower your left leg, Then do the same on the other leg, Repeat it,\10\10</string>
+    <string name="desc_heeltouch">Initially, lie down on your back and bend your legs, Take the support of your hands on the side, lift your head and touch your heels alternatively with your hands,\10\10</string>
+    <string name="desc_lunges">Start by standing, with your feet few iches apart, Keep your hands on the hip, Stretch your right leg and bring your body down, till your right thigh is parallel to the floor, Come back to the initial position and repeat the same on the left leg,\10\10</string>
+    <string name="desc_plank">Be on your toes and forearms with your body straight, Stay in this position for as long as possible,\10\10</string>
+    <string name="desc_plie_squats">Stand straight and move your legs so that they are wider than shoulder width apart from each other with your knees slightly bent, Slowly bend the knees and lower your legs until your thighs are parallel to the floor, Press mainly with the heel of the foot to bring the body back to the starting position,\10\10</string>
+    <string name="desc_side_leg_rise_left">Start by lying on your side, with the head, resting on the right arm, Now, lift your left leg and then come back to the initial position, Repeat it,\10\10</string>
+    <string name="desc_side_leg_rise_right">Start by lying on your side, with the head, resting on the left arm, Now, lift your right leg and then come back to the initial position, Repeat it,\10\10</string>
+    <string name="desc_side_lunges">Initially, stand by keeping your feet, few inches wide, Stretch your right leg, by lowering the body and keeping your left leg straight, Return to the initial position and repeat the same on the left leg, \10\10</string>
+    <string name="desc_squats">Stand with your legs a few inches apart, Stretch your arms to the front and bring the body down, till your thighs are parallel to the floor, Now come back to the initial position, Repeat it,\10\10</string>
+    <string name="desc_standing_bicycle_crunches">Stand with your feet, few inches apart, Raise your right knee towards your left elbow, Return back to the initial position, Repeat the same on the other side, \10\10</string>
+    <string name="desc_swimming_and_superman">Lie down with your face downwards, by stretching your hands forward, Raise your opposite arm and leg alternatively..\10\10</string>
+    <string name="desc_wall_pushups">Initially, stand a inch or two, away from the wall, Stretch your arms and touch the wall, Lean and push against the wall, with your arms and then come back, Repeat this,\10\10</string>
+    <string name="dips">Dips</string>
+    <string name="dips_desc">Place your hands on the edge of the bench,Now,slowly lower your body by bending your elbows,Slowly push yourself back up to starting position,Repeat it,</string>
+
+    <string name="duration">Duration</string>
+    <string name="evening_title">Evening stretches</string>
+    <string name="exercise_time">Exercise Time</string>
+    <string name="exercises">Exercises</string>
+    <string name="exit_app_msg">Would you like to exit ?</string>
+
+
+    <string name="fatburn_title">Fatburn workout</string>
+
+    <string name="finished">Finished</string>
+    <string name="fri">Friday</string>
+
+
+    <string name="jumpingjacks">Jumping Jacks</string>
+    <string name="jumpingjacks_desc">Initially, stand by keeping your feet, few inches wide, Now,just jump and extend your arms overhead with that slightly bend your knees and extend your legs,Now come back to the starting position Repeat this,</string>
+
+    <string name="languages">Language</string>
+    <string name="leg_drops">leg drops</string>
+    <string name="leg_drops_desc">Start by lying with your back on the ground, Keep your hands on the side and lift both your legs to a 90 degree angle, Feel the pressure on your abs, Now, slightly lower your legs and return back, Repeat this,\10\10</string>
+    <string name="legliftleft">Leg Lift Left</string>
+    <string name="legliftleft_desc">Be on your toes and forearms with your body straight,Raise your left leg slowly and hold it,Now come back to the initial position, Repeat it,</string>
+    <string name="legliftright">Leg Lift Right</string>
+    <string name="legliftright_desc">Be on your toes and forearms with your body straight,Raise your right leg slowly and hold it,Now come back to the initial position, Repeat it,</string>
+    <string name="long_arm_crunches">long arm crunches</string>
+    <string name="long_arm_crunches_desc">Lie down with your knees bent, Stretch your arms towards your head, Raise your upper body to a 30 degree angle, Return back to the initial position, Repeat this,\10\10</string>
+    <string name="mon">Monday</string>
+    <string name="monday">Monday</string>
+    <string name="morning_title">Morning warm up</string>
+    <string name="mountainclimbing">Mountain Climbing</string>
+    <string name="mountainclimbing_desc">Get into a plank position, on the hands and toes, Your hands should be about shoulder-width apart, back flat, abs engaged, and head in alignment, From this position, pull the right knee into your chest as far as you can, Now, switch and bring the other knee in, Run the knees in as far and as fast as you can while keeping the hips down,</string>
+
+    <string name="next">NEXT</string>
+    <string name="noreminders">No Reminders</string>
+
+    <string name="ok">OK</string>
+
+    <string name="plank">plank</string>
+    <string name="plank_desc">Be on your toes and forearms with your body straight, Stay in this position for as long as possible,\10\10</string>
+    <string name="please_select_at_least_one_day">Please select at-least one day</string>
+
+    <string name="pushups">Push Ups</string>
+    <string name="pushups_desc">Initially, face-down prone position on the floor, Stretch your arms and touch the floor,Raise yourself by pushing the ground away from you,Repeat this,</string>
+    <string name="quit_workout">Would you like to quit workout?</string>
+
+    <string name="rate_us_str">Rate us</string>
+    <string name="ready_to_go">READY TO GO</string>
+
+    <string name="reclined_oblique_twist">reclined oblique twist</string>
+    <string name="reclined_oblique_twist_desc">Lie down on your back, Raise your upper body, with your elbows on the side for support, Raise your left leg and reach the ankle, using your right hand, Return back to the initial position and repeat the same on the other side,\10\10</string>
+    <string name="reminder_str">Reminder</string>
+
+    <string name="rest_time_key">rest_time</string>
+    <string name="rest_time_str">Rest time</string>
+    <string name="reverse_crunches">reverse crunches</string>
+    <string name="reverse_crunches_desc">Lie down on your back and bend your knees, Now, bring your knees towards your head, by keeping your hands on your head,\10\10</string>
+    <string name="russian_twist">russian twist</string>
+    <string name="russian_twist_desc">Sit on the mat, by bending your knees, Slightly lean back and bend your arms, Now twist your arms to the left and right, \10\10</string>
+    <string name="russiantwists">Russian Twists</string>
+    <string name="russiantwists_desc">Sit on the mat, by bending your knees, Slightly lean back and bend your arms, Now twist your arms to the left and right,</string>
+
+    <string name="sat">Saturday</string>
+    <string name="scissors">Scissors</string>
+    <string name="scissors_desc">Start lying on back with arms next to side and legs pointed straight into the air above hips, Press low back into the mat so abs are tight, Lower right leg a few inches from the mat, As you raise right leg up begin lowering left leg the same way, Continue switching right and left for desired number of reps,</string>
+
+    <string name="seconds_text">seconds</string>
+    <string name="set">Set</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="set_your_preferable_exercise_time">Set Your preferable exercise time</string>
+    <string name="share_app_str">Share</string>
+    <string name="side_leg_rise_left">side leg rise left</string>
+    <string name="side_leg_rise_left_desc">Start by lying on your side, with the head, resting on the right arm, Now, lift your left leg and then come back to the initial position, Repeat it,\10\10</string>
+    <string name="side_leg_rise_right">side leg rise right</string>
+    <string name="side_leg_rise_right_desc">Start by lying on your side, with the head, resting on the left arm, Now, lift your right leg and then come back to the initial position, Repeat it,\10\10</string>
+    <string name="skip">SKIP</string>
+    <string name="sound">Sound</string>
+    <string name="standing_bicycle">standing bicycle</string>
+    <string name="standing_bicycle_desc">Stand with your feet, few inches apart, Raise your right knee towards your left elbow, Return back to the initial position, Repeat the same on the other side,\10\10</string>
+    <string name="start">start</string>
+    <string name="status_bar_notification_info_overflow" translatable="false">999+</string>
+    <string name="sun">Sunday</string>
+    <string name="swimming_and_superman">swimming and superman</string>
+    <string name="swimming_and_superman_desc">Lie down with your face downwards, by stretching your hands forward, Raise your opposite arm and leg alternatively,\10\10</string>
+    <string name="tab1">Training</string>
+    <string name="tab2">Routines</string>
+    <string name="tab3">Profile</string>
+    <string name="tab4">Tips</string>
+    <string name="takerestspeak">Take rest</string>
+    <string name="test_string" translatable="false">xxx</string>
+    <string name="thri">Thursday</string>
+    <string name="thursday">Thursday</string>
+    <string name="time_saved">Time saved !!!</string>
+    <string name="timer_fref_file_name" translatable="false">com.own.workout.pro.timer_fref_file</string>
+    <string name="tip">Tip</string>
+
+    <string name="trunk_rotation">trunk rotation</string>
+    <string name="trunk_rotation_desc">Initially, stand by keeping your feet, few inches wide, Raise your arms by bending your elbows and bring both your arms together, Move your body to the left and to the right, Repeat this, \10\10</string>
+
+
+    <string name="tu">Tuesday</string>
+
+    <string name="wed">Wednesday</string>
+    <string name="weightloss_title">Weight loss workout</string>
+
+    <string name="wl_bicycle_crunches">bicycle crunches</string>
+    <string name="wl_butt_bridge">butt bridge</string>
+    <string name="wl_clapping_crunches">clapping crunches</string>
+    <string name="wl_clapsoverhead">claps over head</string>
+    <string name="wl_fire_hydrant_left">fire hydrant left</string>
+    <string name="wl_fire_hydrant_right">fire hydrant right</string>
+    <string name="wl_flutter_kicks">flutter kicks</string>
+
+    <string name="wl_plank">plank</string>
+    <string name="wl_squats">squats</string>
+    <string name="wl_standing_bicycle_crunches">standing bicycle crunches</string>
+    <string name="wl_swimmer_and_superman">swimmer and superman</string>
+    <string name="wl_swimming_and_superman">swimmer and superman</string>
+    <string name="wl_wallpushups">wall pushups</string>
+    <string name="JUMPINGJACKS">jumping jacks</string>
+    <string name="JUMPINGJACKSDESCRIPTION">Be in a standing position, Now, jump by stretching your hands and legs outwards,</string>
+
+    <string name="wl_plie_squats">plie squats</string>
+    <string name="PLIESQUATSDESCRIPTION">Stand by keeping the hands on your hip and the legs a few inches wider, than the shoulder, Bring down the body, till the thighs are parallel to the floor, Then come back to the original position, Repeat it,</string>
+    <string name="CURTSYLUNGES">curtsy lunges</string>
+    <string name="CURTSYLUNGESDESCRIPTION">Start by standing, with your feet, few inches apart, Stretch your right leg backwards to the left, by bending your knees, Return to the start position and repeat the same on the other side,</string>
+
+    <string name="RIGHTLUNGESKNEEHOPS">right lunges knee hops</string>
+    <string name="RIGHTLUNGESKNEEHOPSDESCRIPTION">Initially, stand straight, Then stretch your right leg backwards and bring the body down, On coming up, lift your right knee as high as possible, Return back to the original position and repeat it,</string>
+
+    <string name="LEFTLUNGESKNEEHOPS">left lunges knee hops</string>
+    <string name="LEFTLUNGESKNEEHOPSDESCRIPTION">Initially, stand straight, Then stretch your left leg backwards and bring the body down, On coming up, lift your left knee as high as possible, Return back to the original position and repeat it,</string>
+    <string name="SPLITSQUATLEFT">split squat left</string>
+    <string name="SPLITSQUATLEFTDESCRIPTION">Stretch forward with your left leg, by having your upper body straight, Then lower your body and then move it up,</string>
+
+    <string name="SPLITSQUATRIGHT">split squat right</string>
+    <string name="SPLITSQUATRIGHTDESCRIPTION">Stretch forward with your right leg, by having your upper body straight, Then lower your body and then move it up,</string>
+    <string name="Day_Planner_Reminder">Day Planner Reminder</string>
+    <string name="wl_side_lunges">side lunges</string>
+    <string name="squats_desc">Stand with your legs a few inches apart, Stretch your arms to the front and bring the body down, till your thighs are parallel to the floor, Now come back to the initial position, Repeat it,</string>
+    <string name="squats">squats</string>
+    <string name="SQUATSDESCRIPTION">Stand with your legs a few inches apart, Stretch your arms to the front and bring the body down, till your thighs are parallel to the floor, Now come back to the initial position, Repeat it,</string>
+
+
+    <string name="SIDELYINGLEGLIFTLEFT">side lying leg lift left</string>
+    <string name="BUTTBRIDGE">butt bridge</string>
+    <string name="ADDUCTORSTRECHINSTANDING">adductor stretch in standing</string>
+    <string name="DONKEYKICKSLEFT">donkey kicks left</string>
+    <string name="DONKEYKICKSRIGHT">donkey kicks right</string>
+    <string name="FLUTTERKICKS">flutter kicks</string>
+    <string name="HEELTOUCH">heel touch</string>
+    <string name="SIDELYINGLEGLIFTRIGHT">side lying leg lift right</string>
+    <string name="firehydrantleft">Firehydrant Left</string>
+    <string name="firehydrantleft_desc">Initially be down on your hands and knees, Now, bend your left knee and raise your left leg to the side, until it is in the same level as your hip,\10\10</string>
+    <string name="firehydrantright">Firehydrant Right</string>
+    <string name="firehydrantright_desc">Initially be down on your hands and knees, Now, bend your right knee and raise your right leg to the side, until it is in the same level as your hip,\10\10</string>
+    <string name="LUNGES">lunges</string>
+    <string name="MOUNTAINCLIMBER">mountain climber</string>
+    <string name="butt_bridge_desc">Start by lying on your back, Bend your legs, Take the support of your hands on the side, and lift the butt up, then bring it down, Repeat it,\10\10</string>
+    <string name="mountain_climber_desc">Initially, be in the push-up position, By keeping the left leg straight, bend your right knee, Now, move to the initial position and repeat the same on the other leg, Let the switching between the sides be fast,\10\10</string>
+    <string name="flutter_kicks_desc">Start by lying on your back, Keep your arms on the side and lift your legs, Let the legs be as straight as possible, Now, quickly raise your right leg and at the same time, lower your left leg, Then do the same on the other leg, Repeat it,\10\10</string>
+    <string name="wl_donkeykicksleft">donkey kicks left</string>
+    <string name="DONKEYKICKSLEFTDESCRIPTION">Initially be down on your hands and knees, Now lift the left leg with the knee bend and the leg pointing towards the ceiling, Stretch the leg and return back to the initial position, Repeat it,</string>
+    <string name="wl_donkeykicksright">donkey kicks right</string>
+    <string name="DONKEYKICKSRIGHTDESCIPTION">Initially be down on your hands and knees, Now lift the right leg with the knee bend and the leg pointing towards the ceiling, Stretch the leg and return back to the initial position, Repeat it,</string>
+    <string name="wl_side_lying_leg_lift_left">side lying leg lift left</string>
+    <string name="SIDELYINGLEGLIFTLEFTDESCRIPTION">Start by lying on your side, with the head, resting on the right arm, Now, lift your left leg and then come back to the initial position, Repeat it,</string>
+    <string name="wl_side_lying_leg_lift_right">side lying leg lift right</string>
+    <string name="SIDELYINGLEGLIFTRIGHTDESCRIPTION">Start by lying on your side, with the head, resting on the left arm, Now, lift your right leg and then come back to the initial position, Repeat it,</string>
+    <string name="butt_bridge">butt bridge</string>
+    <string name="BUTTBRIDGEDESCRIPTION">Start by lying on your back, Bend your legs, Take the support of your hands on the side, and lift the butt up, then bring it down, Repeat it,</string>
+    <string name="wl_heeltouch">heel touch</string>
+    <string name="HEELTOUCHDESCRIPTION">Initially, lie down on your back and bend your legs, Take the support of your hands on the side, lift your head and touch your heels alternatively with your hands,</string>
+    <string name="wl_lunges">lunges</string>
+    <string name="LUNGESDESCRIPTION">Start by standing, with your feet few inches apart, Keep your hands on the hip, Stretch your right leg and bring your body down, till your right thigh is parallel to the floor, Come back to the initial position and repeat the same on the left leg,</string>
+    <string name="mountain_climber">mountain climber</string>
+    <string name="MOUNTAINCLIMBERDESCRIPTION">Initially, be in the push-up position, By keeping the left leg straight, bend your right knee, Now, move to the initial position and repeat the same on the other leg, Let the switching between the sides be fast,</string>
+    <string name="flutter_kicks">flutter kicks</string>
+    <string name="FLUTTERKICKSDESCRIPTION">Start by lying on your back, Keep your arms on the side and lift your legs, Let the legs be as straight as possible, Now, quickly raise your right leg and at the same time, lower your left leg, Then do the same on the other leg, Repeat it,</string>
+    <string name="wl_adductor_strect_in_standing">adductor stretch in standing</string>
+
+    <string name="ADDUCTORSTRECHINSTANDINGDESCRIPTION">Initially, keep your feet, few inches apart with your hands on your hip, Now, stretch your body to the left, by bending your left leg, Be in this position for some time, return to the original position, Repeat the same for the right side,</string>
+    <string name="FIREHYDRANTLEFT">fire hydrant left</string>
+    <string name="FIREHYDRANTLEFTDESCRIPTION">Initially be down on your hands and knees, Now, bend your left knee and raise your left leg to the side, until it is in the same level as your hip,</string>
+    <string name="FIREHYDRANTRIGHT">fire hydrant right</string>
+    <string name="FIREHYDRANTRIGHTDESCRIPTION">Initially be down on your hands and knees, Now, bend your right knee and raise your right leg to the side, until it is in the same level as your hip,</string>
+
+
+    <!--    men_string_all-->
+
+    <string name="abs">v crunch</string>
+    <string name="v_crunch_desc">Sit on your butt, your legs and back are lift upwards. Now lift your back and bring your knees towards chest.Then return to same position.</string>
+    <string name="abs1">clapping crunches</string>
+    <string name="abs2">flutter kicks</string>
+    <string name="abs3">plank</string>
+    <string name="side_crunches_right_desc">Lie down on ground on your right side.Put your one hand below your head and second on your waist for support. Now pull your body up till you feel contraction and then slowly come back in same position.</string>
+    <string name="abs4">reverse crunches</string>
+    <string name="side_crunches_left_desc">Lie down on ground on your left side.Put your one hand below your head and second on your waist for support. Now pull your body up till you feel contraction and then slowly come back in same position.</string>
+    <string name="abs5">bent leg twist</string>
+    <string name="abs6">bicycle crunches</string>
+    <string name="abs7">cross arm crunches</string>
+    <string name="abs8">x man crunch</string>
+    <string name="abs9">dumbbell paddle boats</string>
+    <string name="abs10">dumbbell crunches</string>
+    <string name="x_man_crunch_desc">Lying down on floor.Spread your legs and hands.Now push your back upwards with folding your legs and hands together.</string>
+    <string name="abs11">dumbbell crunch and punches</string>
+    <string name="dumbbell_paddle_boats_desc">Sit on the floor on your butt.Flod your legs and put your heels on ground.Now hold a dumbbell or any weight according to your strength and push that dumbbell toward ground in left or right direction by opening your legs straight nd push your back towards ground.</string>
+    <string name="abs12">side leg rise left</string>
+    <string name="dumbbell_crunches_desc">Lie down on ground and bend your knees. Hold a dumbbell according to your strength.Now push your back upwards and straight your hands in upwards direction.Now first take your hands in same position then your back.</string>
+    <string name="abs13">side leg rise Right</string>
+    <string name="abs14">lying twist stretch right</string>
+    <string name="abs15">one down two ups</string>
+    <string name="abs16">dumbbell toe touch crunch right</string>
+    <string name="abs17">dumbbell toe touch crunch Left</string>
+    <string name="abs18">v hold</string>
+    <string name="abs19">dumbbell bicycle passes</string>
+    <string name="abs20">dumbbell torture tucks</string>
+    <string name="abs21">seated abs counterclockwise</string>
+    <string name="abs22">seated abs clockwise</string>
+    <string name="abs23">ninty crunch</string>
+    <string name="abs24">dumbbell side bend right</string>
+    <string name="abs25">dumbbell side bend Left</string>
+    <string name="abs26">cross knee plank</string>
+    <string name="abs27">oblique v ups left</string>
+    <string name="abs28">oblique v ups Right</string>
+    <string name="abs29">crunches with legs raised</string>
+    <string name="abs30">alt v up</string>
+    <string name="abs31">lying twist stretch left</string>
+    <string name="abs32">childs pose</string>
+    <string name="abs33">cobra stretch</string>
+    <string name="abs34">side plank left</string>
+    <string name="abs35">side plank Right</string>
+    <string name="abs36">dumbbell russian twist</string>
+    <string name="abs37">v up</string>
+    <string name="abs38">side crunches right</string>
+    <string name="abs39">side crunches left</string>
+    <string name="abs40">sit up twist</string>
+    <string name="abs41">heels to the heaven</string>
+    <string name="abs42">heel touch</string>
+
+    <string name="dumbbell_crunch_and_punches_desc">Lie down on ground and bend your knees.Hold dumbbells in each hand. Now push your back upwards and push your left hand upwards.Now take back your hands and come to normal position and do the same with right hand.</string>
+    <string name="lying_twist_stretch_right_desc">Lie down on your back, by stretching both your arms. Now, twist both your knees together to the right. Be in this position.</string>
+    <string name="one_down_two_ups_desc">Lie down on your back and make your hands relax on ground. Both legs towards sky now take down one leg down slightly up the ground and do the same with another leg.</string>
+    <string name="dumbbell_toe_touch_crunch_left_desc">Lie on ground with your left hand up and hold a dumbbell in that hand and put your right hand on the ground. Put your right leg straight and bend your left leg.Now raise your shoulder and leg like that you should touch your toe with dumbbell. Then come back to normal position.</string>
+    <string name="dumbbell_toe_touch_crunch_right_desc">Lie on ground with your right hand up and hold a dumbbell in that hand and put your left hand on the ground. Put your left leg straight and bend your right leg.Now raise your shoulder and leg like that you should touch your toe with dumbbell. Then come back to normal position.</string>
+    <string name="v_hold_desc">Sit on the floor on your butt. Now lift your back at 45 degree angle and lift your leg 90 degree to the ground , bend your knees and stretch your hands towards kness. Hold this position for given time.</string>
+    <string name="dumbbell_bicycle_passes_desc">Sit on your butt, your back is up and hold dumbbell in one of your hand. Now bend the knee of opposite leg and pass the dumbbell to other hand and straight the leg. Do same with other hand.</string>
+    <string name="dumbbell_torture_tucks_desc">Lie on ground with your hands extending over your head and hold a dumbbell in your hand.Now bend your knees and lift your back like that dumbbell should touch your knees.Go back to main position.</string>
+    <string name="seated_abs_counterclockwise_desc">Sit on the ground. Put legs straight on the ground and hands back with bend elbow for support. Now lift both legs and rotate them in counterclockwise direction.</string>
+    <string name="seated_abs_clockwise_desc">Sit on the ground. Put legs straight on the ground and hands back with bend elbow for support. Now lift both legs and rotate them in clockwise direction.</string>
+    <string name="ninty_crunch_desc">Lie down on your back and put your legs ninety degree to the ground and bend the knee.Now push your back upwards and then come to same position.</string>
+    <string name="dumbbell_side_bend_right_desc">Stand in straight position and hold one dumbbell in right hand.Now bend down your back towards ground in your right direction as much as possible then come back to normal position.</string>
+    <string name="dumbbell_side_bend_left_desc">Stand in straight position and hold one dumbbell in left hand.Now bend down your back towards ground in your left direction as much as possible then come back to normal position.</string>
+    <string name="cross_knee_plank_desc">Take position of plank.Now bring one knee and opposite elbow like that they should touch each other.then come back in plank position.Do the same with other leg.</string>
+    <string name="oblique_v_ups_left_desc">Lie down on your back. Put your legs right side with bend knees. Put your left hand behind your head for support and right hand straight in legs direction. Now lift your back and legs at the same time. and return to same position.</string>
+    <string name="oblique_v_ups_right_desc">Lie down on your back. Put your legs left side with bend knees. Put your right hand behind your head for support and left hand straight in legs direction. Now lift your back and legs at the same time. and return to same position.</string>
+    <string name="crunches_with_legs_raised_desc">Lie down on ground and lift your both legs upwards(ninety degree from ground).Now lift your back up till you feel contraction in your abs then slowly come back in same position.</string>
+    <string name="alt_v_up_desc">Lie down on ground and put your hands behind. Now pull your left leg, right hand and back like that you should touch your toe with your hand and in this hand and leg should straight as much as possible then slowly come back in same position after do same with right leg and left hand.</string>
+
+    <string name="lying_twist_stretch_left_desc">Lie down on your back, by stretching both your arms. Now, twist both your knees together to the left. Be in this position.</string>
+    <string name="childs_pose_desc">Sit on your knees, with your toes, few inches apart. Lift both your hands and lower your body by exhaling. Be in this pose. Return back, by raising your body and inhaling.</string>
+    <string name="cobra_stretch_desc">Lie down with your head facing the ground. Keep your hands at the side of your shoulders. Now, raise your chest with your arms. Be in this position for some time.</string>
+    <string name="side_plank_left_desc">Lie down on ground on your left side. Now lift up your body on support of your elbow, forearm and your heels and form a straight line.Be in the same position for a given time.</string>
+    <string name="side_plank_right_desc">Lie down on ground on your right side. Now lift up your body on support of your elbow, forearm and your heels and form a straight line.Be in the same position for a given time.</string>
+    <string name="sit_up_twist_desc">Lie on your back and your knees slightly bent. Now lift up your back and tilt towards right and return to your position.Now do the same in opposite direction.</string>
+    <string name="dumbbell_russian_twist_desc">Sit on the floor on your butt.Raise your legs and slightly bend the knee then lower your back towards ground making shape like english alphabet V Now hold a dumbbell or any weight according to your strength and push that dumbbell toward ground in left or right direction.</string>
+    <string name="heels_to_the_heaven_desc">Lie down on ground and lift your both legs upwards(ninety degree from ground).Now lift your butt up till you feel contraction in your abs then slowly come back in same position.</string>
+    <string name="v_up_desc">Lie down on ground and put your hands behind. Now pull your legs,hands and back like that you should touch your toes with your hands and in this hands and legs should straight as much as possible then slowly come back in same position.</string>
+    <string name="heel_touch_desc">Initially, lie down on your back and bend your legs. Take the support of your hands on the side, lift your head and touch your heels alternatively with your hands.</string>
+
+
+    <!--}ABS_Cpmpleted-->
+    <!--    Arm_workout-->
+    <string name="arm">triceps dips</string>
+    <string name="arm1">pushups</string>
+    <string name="arm2">decline pushups</string>
+    <string name="arm3">incline pushups</string>
+    <string name="arm4">arm pushups</string>
+    <string name="arm5">arm scissors</string>
+    <string name="arm6">triceps stretch left</string>
+    <string name="arm7">triceps stretch right</string>
+    <string name="arm8">standing biceps stretch left</string>
+    <string name="arm9">standing biceps stretch right</string>
+    <string name="arm10">elbow back</string>
+    <string name="arm11">arm crunches left</string>
+    <string name="arm12">arm crunches right</string>
+    <string name="arm13">wall pushups</string>
+    <string name="arm14">jumping jacks</string>
+    <string name="arm15">plank taps</string>
+    <string name="arm16">punches</string>
+    <string name="arm17">knee pushups</string>
+    <string name="arm18">pushup low hold</string>
+    <string name="arm19">wide arm pushups</string>
+    <string name="arm20">diamond pushups</string>
+    <string name="arm21">plank</string>
+    <string name="arm22">shoulder gators</string>
+    <string name="arm23">skip the rope</string>
+    <string name="arm24">plank alternate reach</string>
+
+    <string name="desc_alternater_heeltouch">Initially, lie down on your back and bend your legs. Take the support of your hands on the side, lift your head and touch your heels alternatively with your hands.  </string>
+    <string name="desc_arm_crunches">Lie down on the ground. Raise your hands slowly and touch to your knees. Now, low backdown yourself slowly.Repeat it  </string>
+    <string name="desc_arm_crunches_left">Lie down on your back and bend your legs. Place your right hand behind your head and left hand behind your left knee. Now raise your body and then return back to the initial position. Repeat it."</string>
+    <string name="desc_arm_crunches_right">Lie down on your back and bend your legs. Place your left hand behind your head and right hand behind your right knee. Now raise your body and then return back to the initial position. Repeat it."</string>
+    <string name="desc_arm_scissors">Initially, stand with your feet and shoulder wide. Stretch your arms in front of your body at shoulder level and let the arms overlap each other in the shape of letter X. Now spread the arms. Switch the arms and repeat it."</string>
+    <string name="desc_army_pushups">Initially be in a push-up position with your feet, 12 inches apart. Lower your body till your upper arms are parallel to the ground and then raise your body to the initial position. Repeat it."</string>
+    <string name="desc_basic_crunches">Lie down on the ground. Raise your shoulder from ground and stay in that position for few seconds. Now, low backdown yourself slowly.  </string>
+    <string name="desc_bench_dips">Place your hands on the edge of the bench.Now,slowly lower your body by bending your elbows.Slowly push yourself back up to starting position.Repeat it  </string>
+
+    <string name="desc_decline_pushups">Initially be in a push-up position. Elevate your legs on a bench. Now move your body up and down. Repeat it. "</string>
+    <string name="desc_diamond_pushups">Be on your toes and hands by raising your body. Keep your hands in a diamond shape. Now lower your body and then raise your body. Repeat it"</string>
+    <string name="desc_elbow_back">Initially, stand with your feet and shoulder wide. Now place both your hands on your waist with fingers downwards and elbows outwards. Slowly pull both your elbows backwards and then bring them back to the initial position. Repeat it."</string>
+
+    <string name="desc_high_knees">Stand with your feet, few inches apart. Raise your right knee towards your left elbow. Return back to the initial position. Repeat the same on the other side.  </string>
+    <string name="desc_incline_pushups">Start in a normal push-up position, with your hands raised on a bench. Then push your body up and down using your arms. Repeat it."</string>
+    <string name="desc_jumping_jacks">Initially, stand by keeping your feet, few inches wide. Now,just jump and extend your arms overhead with that slightly bend your knees and extend your legs.Now come back to the starting position Repeat this.  </string>
+
+
+    <string name="desc_knee_pushups">Be in a normal push-up position. Let your knees touch the ground and raise your feet above the ground. Now raise your body up and then bring it down. Repeat it. "</string>
+    <string name="desc_leg_raise">Lie down on the ground. Raise your legs slowly untill your feet are pointed 90°. Now,slowly lower your legs.Repeat it  </string>
+    <string name="desc_leg_up_crunches">Lie down on the ground. Raise your legs slowly and bring your knee as close to your chest.Repeat it  </string>
+    <string name="desc_lunge">Start by standing, with your feet few iches apart. Keep your hands on the hip. Stretch your right leg and bring your body down, till your right thigh is parallel to the floor. Come back to the initial position and repeat the same on the left leg.  </string>
+
+    <string name="desc_plank_alternate_reach">Start in a plank position. Alternatively extend each of your arms forward. Let your body be straight. Repeat it."</string>
+    <string name="desc_plank_taps">Initially be in the plank position. Touch the left shoulder using your right hand and return to the initial position. Do the same on the other side. Repeat it."</string>
+    <string name="desc_plank_with_leg_lift">Be on your toes and forearms with your body straight. Raise your left leg for few seconds as it is possible.Now,lower your left leg and raise your right leg.Now come back to initial position.Repeat this.  </string>
+    <string name="desc_punches">Initially, stand with your feet and shoulder wide, knees slightly bent. Now bend your elbows and punch forward with your fists, alternatively with both arms. Repeat it.</string>
+    <string name="desc_pushup_low_hold">Be in a normal push-up position. Bring your body down until it is 1 to 2 inches above the ground. Be in this position for sometime and breathe normally."</string>
+    <string name="desc_pushups">Initially, face-down prone position on the floor. Stretch your arms and touch the floor.Raise yourself by pushing the ground away from you.Repeat this.  </string>
+    <string name="desc_shoulder_gators">Stand with your feet, few inches wide. keep your hands near your ears with elbows to the side. Bring both your elbows to the centre of your body and then return back to the initial position. Repeat it."</string>
+    <string name="desc_skip_the_rope">Initially be in a standing position.Then jump as if you have a skipping rope in your hand. Repeat it."</string>
+
+    <string name="desc_standing_biceps_stretch_left">Stand with your left arm near a wall. Now extend your left arm and touch the wall. Slightly turn your body towards the right."</string>
+    <string name="desc_standing_biceps_stretch_right">Stand with your right arm near a wall. Now extend your right arm and touch the wall. Slightly turn your body towards the left."</string>
+    <string name="desc_triceps_dips">Sit on a chair. Hold the chair and move your hip off the chair. Now move your body up and down by taking the support of your arms. Repeat it."</string>
+    <string name="desc_triceps_stretch_left">Lift your left arm, bend it and place it on your back. Hold the left elbow using your right hand and pull it. Be in this position for some seconds. "</string>
+    <string name="desc_triceps_stretch_right">Lift your right arm, bend it and place it on your back. Hold the right elbow using your left hand and pull it. Be in this position for some seconds. "</string>
+    <string name="desc_v_crunches">Lie down on the ground. Raise both your legs with keeping hands side about 45 degrees off the ground. Now, low backdown yourself slowly.  </string>
+    <string name="desc_vertical_leg_crunches">Lie down on the ground. Lift your head slowly towards your knees and Try to touch your hands to your toes.Now, low backdown yourself slowly.  </string>
+    <string name="desc_wide_arm_pushups">Initially, kneel on the ground. Lower and raise your body using your arms. Let the arms be wide on the ground. Repeat it."</string>
+
+    <string name="jumping_jacks">jumping jack</string>
+    <string name="arm_crunches">arm crunches</string>
+    <string name="high_knees">high knees</string>
+    <string name="basic_crunches">basic crunches</string>
+    <!--    chest-->
+    <string name="chest">Atomic</string>
+    <string name="chest1">Clap</string>
+    <string name="chest2">Elevated hands</string>
+    <string name="chest3">Eccentric</string>
+    <string name="chest4">Feet elevated</string>
+    <string name="chest5">Narrow grip</string>
+    <string name="chest6">Pike</string>
+    <string name="chest7">Single arm left</string>
+    <string name="chest8">Single arm right</string>
+    <string name="chest9">Single leg left</string>
+    <string name="chest10">Single leg Right</string>
+    <string name="chest11">Spiderman</string>
+    <string name="chest12">Standard grip</string>
+    <string name="chest13">Wide grip</string>
+    <string name="chest14">With jump</string>
+    <string name="atomic_desc">First lie down on the floor, face down with your feet close together. Place your arms straight out, shoulder width apart, tight your abs and hold your body in a plank position. While maintaining a straight body, lower yourself down until your chest is an inch above the floor and elbows pullingback roughly at 45 degrees. Bring your knees in towards your elbows, feeling the contraction in your abdominals. Slowly extend your feet back into the starting position and keep your arms straight. Repeat this.</string>
+    <string name="clap_desc">First lie down on the floor, face down with your feet close together. Place your arms straight out, shoulder width apart, tight your abs and hold your body in a plank position. While maintaining a straight body, lower yourself down until your chest is an inch above the floor and elbows pullingback roughly at 45 degrees.Explosively push yourself up, extending your elbows. While your hands are off the ground, clap them together. Return your hands to the ground just outside shoulder-width. Lower yourself back to the starting position. Repeat this.</string>
+    <string name="elevated_hands_desc">First lie down on the floor, face down with your feet close together. Place your hands on an elevated surface—such as bench. Place your arms straight out, shoulder width apart, tight your abs and hold your body in a plank position. While maintaining a straight body, lower yourself down until your chest is an inch above the floor and elbows pulling back roughly at 45 degrees. Don’t let your hips sag at any point. Now push your torso away fom ground until your arms are straight. Repeat this.</string>
+    <string name="eccentric_desc">First lie down on the floor, face down with your feet close together. Place your arms straight out, shoulder width apart, tight your abs and hold your body in a plank position. While maintaining a straight body, lower yourself down until your chest is an inch above the floor and elbows pullingback roughly at 45 degrees. Now push yourself using your both knees and hands. Repeat this.</string>
+    <string name="feet_elevated_desc">First lie down on the floor, face down with your feet close together. Place your hands about approximately 36 inches apart from each other. Place your toes on top of a flat bench. This will allow your body to be elevated. Place your arms straight out, tight your abs and hold your body in a plank position. While maintaining a straight body, lower yourself down until your chest is an inch above the floor and elbows pullingback roughly at 45 degrees. Now push your torso away fom ground until your arms are straight. Repeat this.</string>
+    <string name="narrow_grip_desc">First lie down on the floor, face down with your feet close together. Place your hands closer than shoulder width for a close hand position, tight your abs and hold your body in a plank position. While maintaining a straight body, lower yourself down until your chest is an inch above the floor and elbows pullingback roughly at 45 degrees. Now push your torso away fom ground until your arms are straight. Repeat this.</string>
+    <string name="pike_desc">First lie down on the floor, face down with your feet close together. Place your arms straight out, shoulder width apart. Now lift up your hips so that your body forms an upside down V. Your legs and arms should stay as straight as possible. Bend your elbows, until your both arms form a 90 degree angle, and bring your head close to the ground. Now slowly push yourself back up until your arms are straight. Repeat this.</string>
+
+
+    <string name="single_arm_left_desc">First lie down on the floor, face down with your feet close together.Spread your feet wider than shoulder width apart. Place left hand behind your thigh.Place your right hand straight out, shoulder width apart, tight your abs and hold your body in a plank position. While maintaining a straight body, lower yourself slowly down until your chest is an inch above the floor and elbows pullingback roughly at 45 degrees. Now push your torso away fom ground until your arms are straight. Repeat this.</string>
+    <string name="single_arm_right_desc">First lie down on the floor, face down with your feet close together.Spread your feet wider than shoulder width apart. Place right hand behind your thigh.Place your left hand straight out, shoulder width apart, tight your abs and hold your body in a plank position. While maintaining a straight body, lower yourself slowly down until your chest is an inch above the floor and elbows pullingback roughly at 45 degrees. Now push your torso away fom ground until your arms are straight. Repeat this.</string>
+    <string name="single_leg_left_desc">First lie down on the floor, lift your left leg off the ground, face down with your feet close together. Place your arms straight out, shoulder width apart, tight your abs and hold your body in a plank position. While maintaining a straight body, lower yourself down until your chest is an inch above the floor and elbows pullingback roughly at 45 degrees. Now push your torso away fom ground until your arms are straight and then lower your left leg to the ground. Repeat this.</string>
+    <string name="single_leg_right_desc">First lie down on the floor, lift your right leg off the ground, face down with your feet close together. Place your arms straight out, shoulder width apart, tight your abs and hold your body in a plank position. While maintaining a straight body, lower yourself down until your chest is an inch above the floor and elbows pullingback roughly at 45 degrees. Now push your torso away fom ground until your arms are straight and then lower your right leg to the ground. Repeat this.</string>
+    <string name="spiderman_desc">First lie down on the floor, face down with your feet close together. Place your arms straight out, shoulder width apart, tight your abs and hold your body in a plank position. While maintaining a straight body, lower yourself down until your chest is an inch above the floor and elbows pullingback roughly at 45 degrees. As you lower down, bring your right leg up and to the side. Touch the knee to the elbow. Now push your torso away fom ground, return the leg to its original position and let your arms be straight. Repeat the same with other leg</string>
+    <string name="standard_desc">First lie down on the floor, face down with your feet close together. Place your arms straight out, shoulder width apart, tight your abs and hold your body in a plank position. While maintaining a straight body, lower yourself down until your chest is an inch above the floor and elbows pullingback roughly at 45 degrees. Now push your torso away fom ground until your arms are straight. Repeat this.</string>
+    <string name="wide_grip_desc">First lie down on the floor, hands wide apart, face down with your feet close together. Place your arms straight out, shoulder width apart, tight your abs and hold your body in a plank position. While maintaining a straight body, lower yourself down until your chest is an inch above the floor and elbows pullingback roughly at 45 degrees. Now push your torso away fom ground until your arms are straight. Repeat this.</string>
+    <string name="with_jump_desc">First lie down on the floor, face down with your feet close together. Place your arms straight out, shoulder width apart, tight your abs and hold your body in a plank position. While maintaining a straight body, lower yourself down until your chest is an inch above the floor and elbows pullingback roughly at 45 degrees. Now push your torso away fom ground until your arms are straight. Now jump your feet back together as you straighten your arms to return to start. Repeat this.</string>
+    <string name="lose">vertical leg crunches</string>
+    <string name="lose1">v crunches</string>
+    <string name="lose2">lunge</string>
+    <string name="lose3">squats</string>
+    <string name="lose4">Push Ups</string>
+    <string name="lose5">leg up crunches</string>
+    <string name="lose6">jumping jacks</string>
+    <string name="lose7">plank with leg lift</string>
+    <string name="lose8">high knees</string>
+    <string name="lose9">basic crunches</string>
+    <string name="lose10">alternater heeltouch</string>
+    <string name="lose11">bicycle crunches</string>
+    <string name="lose12">flutter kicks</string>
+    <string name="lose13">arm crunches</string>
+    <string name="lose14">bench dips</string>
+    <string name="lose15">leg raise</string>
+
+
+
+
+
+
+</resources>

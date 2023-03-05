@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/first_rl"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="145dp"
+            android:background="@color/dark_color" />
+        <RelativeLayout
+            android:id="@+id/rel1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/txt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="10dp"
+                android:textSize="22dp"
+                android:textAlignment="center"
+                android:fontFamily="@font/overlock_bold"
+                android:textColor="@color/white"
+                android:text="@string/tab3"/>
+
+
+            <RelativeLayout
+                android:layout_below="@+id/txt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="180dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="20dp"
+                    android:adjustViewBounds="true"
+                    android:background="@drawable/notification_banner"
+                    android:orientation="vertical" />
+
+            </RelativeLayout>
+        </RelativeLayout>
+
+
+
+        <androidx.core.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_below="@+id/rel1"
+
+            android:layout_height="match_parent"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+                <androidx.core.widget.NestedScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="8dp"
+                        android:layout_marginEnd="8dp"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:id="@+id/nativeAdContainer"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginBottom="10dp"
+                            android:background="@android:color/white"
+                            android:orientation="vertical"
+                            android:paddingTop="3dp"
+                            android:visibility="gone" />
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_8dp"
+                            android:layout_marginRight="@dimen/dimen_8dp"
+                            android:background="@drawable/dividing_line" />
+
+                        <RelativeLayout
+                            android:id="@+id/rLExerciseTime"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="@dimen/dimen_8dp"
+                            android:background="?attr/selectableItemBackground"
+                            android:clickable="true"
+                            android:focusable="true">
+
+                            <ImageView
+                                android:id="@+id/ivexercisetime"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="5dp"
+                                android:src="@drawable/reminder_grey_icon"
+                                android:contentDescription="@string/image" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_margin="5dp"
+                                android:layout_toEndOf="@+id/ivexercisetime"
+                                android:fontFamily="@font/gothic"
+                                android:text="@string/exercise_time"
+                                android:textColor="@color/textColor"
+                                android:textDirection="ltr"
+                                android:textSize="@dimen/profiletextfontsize" />
+                        </RelativeLayout>
+
+
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_8dp"
+                            android:layout_marginRight="@dimen/dimen_8dp"
+                            android:background="@drawable/line_image" />
+
+                        <RelativeLayout
+                            android:id="@+id/rLExerciseTime_advance"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="@dimen/dimen_8dp"
+                            android:background="?attr/selectableItemBackground"
+                            android:clickable="true"
+                            android:focusable="true">
+
+                            <ImageView
+                                android:id="@+id/ivexercisetime_advace"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="5dp"
+                                android:src="@drawable/reminder_grey_icon"
+                                android:contentDescription="@string/image" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_margin="5dp"
+                                android:layout_toEndOf="@+id/ivexercisetime_advace"
+                                android:fontFamily="@font/gothic"
+                                android:text="@string/Day_Planner_Reminder"
+                                android:textColor="@color/textColor"
+                                android:textDirection="ltr"
+                                android:textSize="@dimen/profiletextfontsize" />
+                        </RelativeLayout>
+
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_8dp"
+                            android:layout_marginRight="@dimen/dimen_8dp"
+                            android:background="@drawable/line_image" />
+
+
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="10dp"
+                            android:background="?attr/selectableItemBackground"
+                            android:clickable="true"
+                            android:focusable="true">
+
+                            <ImageView
+                                android:id="@+id/sound_image"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_margin="5dp"
+                                android:background="@drawable/sound"
+                                android:textDirection="ltr" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_margin="5dp"
+                                android:layout_toRightOf="@+id/sound_image"
+                                android:fontFamily="@font/gothic"
+                                android:text="@string/sound"
+                                android:textColor="@color/textColor"
+                                android:textSize="@dimen/profiletextfontsize" />
+
+                            <androidx.appcompat.widget.SwitchCompat
+                                android:id="@+id/sound_switch"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentRight="true"
+                                android:layout_centerVertical="true"
+                                android:background="@drawable/my_btn_toggle"
+                                android:checked="true"
+                                android:paddingRight="3dp"
+                                android:thumb="@null"
+                                app:track="@null" />
+                        </RelativeLayout>
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_8dp"
+                            android:layout_marginRight="@dimen/dimen_8dp"
+                            android:background="@drawable/line_image" />
+
+                        <RelativeLayout
+                            android:visibility="gone"
+                            android:id="@+id/rlCountdowntimer"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="10dp"
+                            android:background="?attr/selectableItemBackground"
+                            android:clickable="true"
+                            android:focusable="true">
+
+                            <ImageView
+                                android:id="@+id/ivCountdownTimer"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_margin="5dp"
+                                android:background="@drawable/timer"
+                                android:textDirection="ltr" />
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_margin="5dp"
+                                android:layout_toRightOf="@+id/ivCountdownTimer"
+                                android:fontFamily="@font/gothic"
+                                android:paddingEnd="150dp"
+                                android:text="@string/countdown_time"
+                                android:textColor="@color/textColor"
+                                android:textDirection="ltr"
+                                android:textSize="@dimen/profiletextfontsize" />
+
+                            <com.travijuu.numberpicker.library.NumberPicker
+                                android:id="@+id/countdownNumberPicker"
+                                android:layout_width="wrap_content"
+                                android:layout_height="40dp"
+                                android:layout_alignParentRight="true"
+                                android:layout_centerVertical="true"
+                                android:paddingRight="3dp" />
+                        </RelativeLayout>
+
+                        <View
+                            android:visibility="gone"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_8dp"
+                            android:layout_marginRight="@dimen/dimen_8dp"
+                            android:background="@drawable/line_image" />
+
+                        <RelativeLayout
+                            android:visibility="gone"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="10dp"
+                            android:background="?attr/selectableItemBackground"
+                            android:clickable="true"
+                            android:focusable="true">
+
+                            <ImageView
+                                android:id="@+id/ivRestTimer"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_margin="5dp"
+                                android:background="@drawable/rest_grey_icon" />
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_margin="5dp"
+                                android:layout_toRightOf="@+id/ivRestTimer"
+                                android:fontFamily="@font/gothic"
+                                android:paddingEnd="150dp"
+                                android:text="@string/rest_time_str"
+                                android:textColor="@color/textColor"
+                                android:textDirection="ltr"
+                                android:textSize="@dimen/profiletextfontsize" />
+
+                            <com.travijuu.numberpicker.library.NumberPicker
+                                android:id="@+id/restTimeNumberPicker"
+                                android:layout_width="wrap_content"
+                                android:layout_height="40dp"
+                                android:layout_alignParentRight="true"
+                                android:layout_centerVertical="true"
+                                android:paddingRight="3dp" />
+                        </RelativeLayout>
+
+                        <View
+                            android:visibility="gone"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_8dp"
+                            android:layout_marginRight="@dimen/dimen_8dp"
+                            android:background="@drawable/line_image" />
+
+                        <RelativeLayout
+                            android:id="@+id/rlLanguage"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="10dp"
+                            android:background="?attr/selectableItemBackground"
+                            android:clickable="true"
+                            android:focusable="true">
+
+                            <ImageView
+                                android:id="@+id/ivLanguage"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="5dp"
+                                android:background="@drawable/language" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_margin="5dp"
+                                android:layout_toRightOf="@+id/ivLanguage"
+                                android:fontFamily="@font/gothic"
+                                android:text="@string/languages"
+                                android:textColor="@color/textColor"
+                                android:textDirection="ltr"
+                                android:textSize="@dimen/profiletextfontsize" />
+                        </RelativeLayout>
+
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_8dp"
+                            android:layout_marginRight="@dimen/dimen_8dp"
+                            android:background="@drawable/line_image" />
+
+                        <RelativeLayout
+                            android:id="@+id/rlRateUs"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="10dp"
+                            android:background="?attr/selectableItemBackground"
+                            android:clickable="true"
+                            android:focusable="true">
+
+                            <ImageView
+                                android:id="@+id/ivRateUs"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_margin="5dp"
+                                android:background="@drawable/rate_us" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_margin="5dp"
+                                android:layout_toRightOf="@+id/ivRateUs"
+                                android:fontFamily="@font/gothic"
+                                android:text="@string/rate_us_str"
+                                android:textColor="@color/textColor"
+                                android:textDirection="ltr"
+                                android:textSize="@dimen/profiletextfontsize" />
+                        </RelativeLayout>
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_8dp"
+                            android:layout_marginRight="@dimen/dimen_8dp"
+                            android:background="@drawable/line_image" />
+
+                        <RelativeLayout
+                            android:id="@+id/rlShareApp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="10dp"
+                            android:background="?attr/selectableItemBackground"
+                            android:clickable="true"
+                            android:focusable="true">
+
+                            <ImageView
+                                android:id="@+id/ivRestartProgress"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_margin="5dp"
+                                android:background="@drawable/share" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_margin="5dp"
+                                android:layout_toRightOf="@+id/ivRestartProgress"
+                                android:fontFamily="@font/gothic"
+                                android:text="@string/share_app_str"
+                                android:textColor="@color/textColor"
+                                android:textDirection="ltr"
+                                android:textSize="@dimen/profiletextfontsize" />
+                        </RelativeLayout>
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_8dp"
+                            android:layout_marginRight="@dimen/dimen_8dp"
+                            android:background="@drawable/line_image" />
+
+
+                        <RelativeLayout
+                            android:id="@+id/privacyapp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="10dp"
+                            android:background="?attr/selectableItemBackground"
+                            android:clickable="true"
+                            android:focusable="true">
+
+                            <ImageView
+                                android:id="@+id/imgprivacy"
+                                android:layout_width="25dp"
+                                android:layout_height="25dp"
+                                android:layout_centerVertical="true"
+                                android:layout_margin="5dp"
+                                android:background="@mipmap/lock"
+                                android:backgroundTint="@color/white"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_margin="5dp"
+                                android:layout_toRightOf="@+id/imgprivacy"
+                                android:fontFamily="@font/gothic"
+                                android:text="@string/privacy"
+                                android:textColor="@color/textColor"
+                                android:textDirection="ltr"
+                                android:textSize="@dimen/profiletextfontsize" />
+                        </RelativeLayout>
+
+                    </LinearLayout>
+                </androidx.core.widget.NestedScrollView>
+            </LinearLayout>
+
+        </androidx.core.widget.NestedScrollView>
+
+
+
+
+
+
+
+
+    <LinearLayout
+        android:id="@+id/lang_frag"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" />
+</RelativeLayout>
+</RelativeLayout>
